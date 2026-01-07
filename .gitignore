@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+handwritten-german-ocr-f90833112ad5.json
+# macOS
+.DS_Store
+
+# Data / outputs
+data/
+outputs/
+predictions/
+scans/
+models/
+
+# Models
+*.pt
+*.pth
+*.bin
+

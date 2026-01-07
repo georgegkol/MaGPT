@@ -1,0 +1,28 @@
+from pathlib import Path
+import easyocr
+
+# -----------------------------
+# CONFIG
+# -----------------------------
+PAGE_PATH = Path("./scans/playjpgscans/Part7_page_4 copy.jpg")
+OUTPUT_PATH = Path("./ocr_output/Part7_page_4.txt")
+OUTPUT_PATH.parent.mkdir(exist_ok=True)
+
+# -----------------------------
+# INIT EASYOCR
+# -----------------------------
+reader = easyocr.Reader(['de'], gpu=False)  # German, CPU mode
+
+# -----------------------------
+# OCR THE PAGE
+# -----------------------------
+results = reader.readtext(str(PAGE_PATH))
+
+# -----------------------------
+# EXTRACT TEXT
+# -----------------------------
+full_text = "\n".join([res[1] for res in results])  # res[1] is the recognized text
+OUTPUT_PATH.write_text(full_text, encoding="utf-8")
+
+print(f"OCR done. Saved text to {OUTPUT_PATH}")
+print(full_text)

@@ -47,4 +47,4 @@ if __name__ == "__main__":
             with open(output_path, "w", encoding="utf-8") as f:
                 f.write(text)
 
-            print(f"\n--- {filename} ---\n{text}")
+            print(f"\n---- {filename} ----\n{text}")

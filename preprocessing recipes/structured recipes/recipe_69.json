@@ -1,0 +1,72 @@
+{
+  "title": "Feines gekocht",
+  "ingredients": [
+    {
+      "name": "geputztes Gemüse",
+      "quantity": 750,
+      "unit": "g"
+    },
+    {
+      "name": "kochendes Wasser",
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "Mehlschwitze oder Zucker",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Spargel",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Blumenkohl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mangold",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schwarzwurzel",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Wirsing",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rosenkohl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Bohnen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Erbsen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Spinat",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": null,
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Vegetables",
+    "Cooking"
+  ]
+}

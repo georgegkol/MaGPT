@@ -1,0 +1,67 @@
+{
+  "title": "Rotkohl",
+  "ingredients": [
+    {
+      "name": "Rotkohl",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Fett",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 1,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Äpfel",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Essig (Zitrone)",
+      "quantity": 4,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Lorbeerblatt",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Nelke",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Flüssigkeit",
+      "quantity": 0.25,
+      "unit": "l"
+    },
+    {
+      "name": "rotw. Kartoffelmehl oder eine rohe Kartoffel",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": null,
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Vegetable",
+    "Side Dish"
+  ]
+}

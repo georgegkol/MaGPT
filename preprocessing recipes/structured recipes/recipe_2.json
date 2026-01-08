@@ -1,0 +1,70 @@
+{
+  "title": "Hackfleischsuppe (landfranz.)",
+  "ingredients": [
+    {
+      "name": "Öl",
+      "quantity": 1,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Lauch",
+      "quantity": 1,
+      "unit": "Stange"
+    },
+    {
+      "name": "Dörrfleisch",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Hackfleisch",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Wasser",
+      "quantity": 1,
+      "unit": "l"
+    },
+    {
+      "name": "Champignoncremesuppe",
+      "quantity": 1,
+      "unit": "Beutel"
+    },
+    {
+      "name": "Schmelzkäse",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Schnittlauch",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Alles andünsten, Salz u. Pfeffer, mit 1 l Wasser auffüllen. 1 Beutel Champignoncremesuppe einrühren. 30–40 g Schmelzkäse u. mit Schnittlauch bestreuen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Meat",
+    "Cheese"
+  ]
+}

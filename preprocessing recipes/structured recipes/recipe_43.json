@@ -1,0 +1,35 @@
+{
+  "title": "Tomatensalat",
+  "ingredients": [
+    {
+      "name": "Gurkensalat",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Basilikum",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Dill Petersilie",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "wie Gurkensalat nur mit Zwiebel evt. Basilikum statt Dill Petersilie"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Salad",
+    "Vegetarian",
+    "Quick"
+  ]
+}

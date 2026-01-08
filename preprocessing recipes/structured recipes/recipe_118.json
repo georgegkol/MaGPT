@@ -1,0 +1,35 @@
+{
+  "title": "Non plus ultra (Foth Odenheim)",
+  "ingredients": [
+    {
+      "name": "Eiweiß",
+      "quantity": 7.5,
+      "unit": null
+    },
+    {
+      "name": "feiner Zucker",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "geschälte geriebene Mandeln",
+      "quantity": 0.5,
+      "unit": "kg"
+    },
+    {
+      "name": "geriebene Haselnüsse",
+      "quantity": 0.5,
+      "unit": "kg"
+    }
+  ],
+  "instructions": [
+    "7–8 Eiweiß werden zu festem Schnee geschlagen u. mit 1 kg feinem Zucker gut verrührt. Von dieser Masse legt man 3 geh. Eßl. zur Glasur zurück. Unter den Rest rührt man ½ kg geschälte geriebene Mandeln u. ½ kg geriebene Haselnüsse. Man löffelt Plätzchen auf die kalten Bleche u. gibt einen Tupfen Glasur darauf. (Backofen 180–190°)"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

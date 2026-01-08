@@ -1,0 +1,91 @@
+{
+  "title": "Weihnachtsstollen",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 4,
+      "unit": "Pf."
+    },
+    {
+      "name": "Milch",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "name": "Butter",
+      "quantity": 1,
+      "unit": "Pf."
+    },
+    {
+      "name": "Hefe",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Mandeln",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Zitronat",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Zitronenschale",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rosinen",
+      "quantity": 1,
+      "unit": "Pf."
+    },
+    {
+      "name": "Zucker für Streusel",
+      "quantity": 0.75,
+      "unit": "Pf."
+    },
+    {
+      "name": "Vanillezucker oder Zimt",
+      "quantity": 2,
+      "unit": "P."
+    },
+    {
+      "name": "Mehl für Streusel",
+      "quantity": 0.75,
+      "unit": "Pf."
+    },
+    {
+      "name": "Butter für Streusel",
+      "quantity": 0.5,
+      "unit": "Pf."
+    }
+  ],
+  "instructions": [
+    "Zutaten langsam verarbeiten. Schweren Hefeteig langsam gehen lassen. Nach dem 2. Gehen die Früchte unterarbeiten. Stollen formen u. gehen lassen. 1–2 Std. backen, mit flüssiger Butter bestreichen u. frisch mit Puderzucker bestreuen."
+  ],
+  "total_time": "2 hours",
+  "servings": null,
+  "tags": [
+    "Holiday",
+    "Baking",
+    "Stollen",
+    "Christmas"
+  ]
+}

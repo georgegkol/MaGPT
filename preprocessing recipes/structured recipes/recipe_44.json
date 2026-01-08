@@ -1,0 +1,60 @@
+{
+  "title": "Tiramisu",
+  "ingredients": [
+    {
+      "name": "Löffelbiskuits",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Amaretto",
+      "quantity": null,
+      "unit": "Schuß"
+    },
+    {
+      "name": "starker Kaffee",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Biskuits",
+      "quantity": 1,
+      "unit": "Lage"
+    },
+    {
+      "name": "Mascarpone",
+      "quantity": 0.5,
+      "unit": "Pfund"
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 75,
+      "unit": "g"
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kakao",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Mit Schuß Amaretto die Löffelbiskuits tränken. Lassen Sie den starken Kaffee kalt werden. Tränken Sie eine Lage Biskuits gut mit Kaffee. Geben Sie 1/2 Pfund Mascarpone in einen Topf, dann 3 Eigelb & 75 gr Zucker gut verrühren (1/4 Std.). Schlagen Sie das Eiweiß steif und rühren Sie es unter. Legen Sie noch eine Lage Biskuits und nochmal Creme. Bestreuen Sie es dünn mit Kakao."
+  ],
+  "total_time": null,
+  "servings": 4,
+  "tags": [
+    "Dessert",
+    "Italian Cuisine",
+    "Tiramisu"
+  ]
+}

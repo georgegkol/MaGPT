@@ -1,0 +1,30 @@
+{
+  "title": "Topfer Braten (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Fleisch",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "kochendes Wasser",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "Fleisch u. Pfannenabrieb",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Das vorbereitete Fleisch in die Auflaufform oder einen flachen Topf geben mit kochendem Wasser übergießen (bei Kalbsnussbraten mit kochender Milch) Deckel sofort darauf geben u. ca. ½ Std. kochen lassen, Deckel abnehmen, restliches Wasser verkochen lassen. Dann das Fleisch in dem ausgelassenen Fett bräunen lassen, dann in den Bratofen schieben ca. ¾ Std. bei 200°. Schmoren (Grundrezept 1–1½ Std.)"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Main Course",
+    "Meat",
+    "Cooking"
+  ]
+}

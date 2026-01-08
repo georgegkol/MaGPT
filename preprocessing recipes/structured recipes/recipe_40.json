@@ -1,0 +1,70 @@
+{
+  "title": "Rumtopf",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "quantity": 1.5,
+      "unit": "l"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 2,
+      "unit": "kg"
+    },
+    {
+      "name": "Früchte",
+      "quantity": 2,
+      "unit": "kg"
+    },
+    {
+      "name": "Erdbeeren",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Johannisbeeren",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Himbeeren",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kirschen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mirabellen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfirsiche",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "feine Birnen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mandarinen",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Die reifen Früchte vorbereiten wie zu anderen Konserven. Es eignen sich gut: Erdbeeren, Johannisbeeren, Himbeeren, Kirschen, Mirabellen, Pfirsiche, feine Birnen, Mandarinen. In ein großes Einmachglas füllt man erst die Hälfte des Rums u. gibt die Früchte, wie die Standzeit sie reifen lässt, darin jedesmal wenn man die Früchte zugibt muß man sorgfältig umrühren. Das Glas muß kühl stehen u. zugedeckt oder zugebunden sein."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Fruit",
+    "Preserve",
+    "Rum"
+  ]
+}

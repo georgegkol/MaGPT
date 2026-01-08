@@ -1,0 +1,35 @@
+{
+  "title": "Quarkvanillecreme",
+  "ingredients": [
+    {
+      "name": "Quark",
+      "quantity": 0.5,
+      "unit": "kg"
+    },
+    {
+      "name": "Vanilleflammeri",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "Milch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Stippmilch von ½ bis 1 kg Quark, Vanilleflammeri von ½ l Milch erkalten lassen u. gut u. mit Stippmilch, löffelweise mischen – Salz darin rühren."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cream",
+    "Quark"
+  ]
+}

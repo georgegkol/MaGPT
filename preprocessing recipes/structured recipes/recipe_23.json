@@ -1,0 +1,40 @@
+{
+  "title": "Rumkrapfen",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Blockschokolade",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Rum",
+      "quantity": 2,
+      "unit": "EL"
+    },
+    {
+      "name": "Schokostreusel",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Butter schaumig rühren. Eigelb hinzufügen. Blockschokolade im Wasserbad erwärmen, abgekühlt mit der Butter und 2 EL Rum vermischen. Masse kühl stellen, Kugeln formen und in Schokostreusel wälzen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Chocolate",
+    "Rum"
+  ]
+}

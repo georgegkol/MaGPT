@@ -1,0 +1,110 @@
+{
+  "title": "Pizza",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 1,
+      "unit": "Teel."
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Teel."
+    },
+    {
+      "name": "Öl",
+      "quantity": 9,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Hefe",
+      "quantity": 0.25,
+      "unit": "l Wasser"
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Öl",
+      "quantity": 3,
+      "unit": "Eßl."
+    },
+    {
+      "name": "geschälte Tomaten",
+      "quantity": 1,
+      "unit": "Dose"
+    },
+    {
+      "name": "Tomatenmark",
+      "quantity": 2,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Oregano",
+      "quantity": 2,
+      "unit": "Teel."
+    },
+    {
+      "name": "Basilikum",
+      "quantity": 1,
+      "unit": "Teel."
+    },
+    {
+      "name": "Lorbeerblatt",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 1,
+      "unit": "Teel."
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Teel."
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salami",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "rote Paprika",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Tomatenscheiben",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "geriebener Käse",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "ohne Vorteig, Gehzeit ca. 1 Std. 1 feingeschnittene Zwiebel in ca. 3 Eßl. Öl dünsten (nicht braun werden lassen) 1 Dose geschälte Tomaten, etwas zerdrücken 2 Eßl. Tomatenmark 2 Teel. Oregano 1 Teel. Basilikum 1 Lorbeerblatt 1 Teel. Zucker 1 Teel. Salz / etwas Pfeffer alles ca. 20 Min. köcheln danach auf dem (10 Min.) vorgebackenen Teig streichen. ca. 250 g geschnittene Salami darüber 1 rote Paprika auch geschnitten darauf legen wieder 10 Min. in die Backröhre nun noch die Tomatenscheiben darauf geben, geriebenen Käse (Edamer od. anderen) darüber streuen. Das Ganze wird noch mals 5 Min. gebacken. Viel Erfolg u. gutes Gelingen."
+  ],
+  "total_time": "1 Std. 45 Min.",
+  "servings": null,
+  "tags": [
+    "Pizza",
+    "Baking",
+    "Italian"
+  ]
+}

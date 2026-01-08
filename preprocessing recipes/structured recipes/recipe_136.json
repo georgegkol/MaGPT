@@ -1,0 +1,35 @@
+{
+  "title": "Schokoladenmakronen",
+  "ingredients": [
+    {
+      "name": "Eiweiß",
+      "quantity": 5,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "ungeschälte Mandeln",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Schokolade",
+      "quantity": 125,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Feinreiben, 125 g Schokolade gerieben. Eine feste Eiweißmasse schlagen, Zutaten hineinfügen u. auf Oblaten setzen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

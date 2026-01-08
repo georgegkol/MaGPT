@@ -1,0 +1,45 @@
+{
+  "title": "Filetsteak",
+  "ingredients": [
+    {
+      "name": "Butterschmalz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Fleisch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Bohnen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kartoffeln",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Butterschmalz in Pfanne ganz heiß. Fleisch pfeffern / in Pfanne. Bißchen runter die Flamme. Von beiden Seiten 3 Minuten. Bißchen Salz drauf. Dazu: Bohnen & Kartoffeln."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Main Course",
+    "Meat",
+    "Steak"
+  ]
+}

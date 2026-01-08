@@ -1,0 +1,26 @@
+{
+  "title": "Zitronencharlotte",
+  "ingredients": [
+    {
+      "name": "Zitronencreme",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Biskuitscheiben",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Kalt gerührten Zitronencreme nach Grundrezept herstellen. Eine Schüssel ausfetten mit Biskuitscheiben belegen, die Creme hineingießen u. nach dem Erkalten stürzen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Lemon"
+  ]
+}

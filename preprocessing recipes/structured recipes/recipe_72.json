@@ -1,0 +1,95 @@
+{
+  "title": "Gemüse-Salat",
+  "ingredients": [
+    {
+      "name": "Gemüse",
+      "quantity": 750,
+      "unit": "g"
+    },
+    {
+      "name": "Salattunke oder Mayonnaise",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rote Rüben",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Sellerie",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Bohnen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Möhren",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schwarzwurzeln",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Spargel",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Erbsen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Lauch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Blumenkohl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rosenkohl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mangold",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "gekochtem Gemüse",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Petersilie",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Gemüse nicht zu weich kochen, nach dem Garen schälen u. schneiden. Salat einige Stunden durchziehen lassen, dann nochmals abschmecken u. anrichten. Anwendung bei: Rote Rüben, Sellerie, Bohnen, Möhren, Schwarzwurzeln, Spargel, Erbsen, Lauch, Blumenkohl, Rosenkohl, Mangold, bei gekochtem Gemüse evtl. Zwiebel u. Petersilie."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Salad",
+    "Vegetables",
+    "Healthy"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Schlummeräpfel",
+  "ingredients": [
+    {
+      "name": "kernige Haferflocken",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Milch",
+      "quantity": 8,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Margarine",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Quark",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zitrone Saft u. Schale",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "Messerspitze"
+    },
+    {
+      "name": "Äpfel",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Marmelade",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zitronensaft",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Vanillesoße",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Zuerst die 2 Eischnee unterziehen. 4–5 Äpfel schälen, das Kernhaus entfernen u. mit Marmelade füllen. Die Hälfte des Teiges in die gefettete Auflaufform geben, die Äpfel hineinsetzen u. mit Zitronensaft beträufeln u. den Rest des Teiges darauf geben. Bei 200° 30–40 Min. im Backofen überbacken. Vanillesoße dazu reichen."
+  ],
+  "total_time": "30-40 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Fruit"
+  ]
+}

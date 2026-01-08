@@ -1,0 +1,45 @@
+{
+  "title": "Edmunds-Kränzchen (gut)",
+  "ingredients": [
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 0.25,
+      "unit": "Pf"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 5,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Mandelsplitter",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Die Butter schaumig rühren, dann die Sahne u. das Mehl zugeben u. zu einem glatten Teig verarbeiten. Ausrollen u. Kränze ausstechen. Eiweiß zu Schnee schlagen, Zucker unterrühren, auf die Kränzchen spritzen u. mit Mandelsplittern bestreuen. Bei 170° backen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

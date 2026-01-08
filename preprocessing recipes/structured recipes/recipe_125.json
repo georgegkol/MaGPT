@@ -1,0 +1,40 @@
+{
+  "title": "Dänisches Brot (Rührteig)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "geriebene Nüsse",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 400,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Butter, Zucker und Ei schaumig rühren. Geriebene Nüsse und Mehl darunterheben. Aus dem Teig Rollen formen, kalt stellen. Ca. ⅔ cm dick schneiden und backen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Bread",
+    "Baking",
+    "Danish"
+  ]
+}

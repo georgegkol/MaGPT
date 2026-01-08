@@ -1,0 +1,75 @@
+{
+  "title": "Rindertöpfchen",
+  "ingredients": [
+    {
+      "name": "Schweinelenden",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schnitzel",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Kassler Kotelett",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "roher Schinken",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Paprika",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "geschnittene Pilze",
+      "quantity": 3,
+      "unit": "D."
+    },
+    {
+      "name": "ganze Pilze",
+      "quantity": 1,
+      "unit": "D."
+    },
+    {
+      "name": "Zwiebeln",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Fond",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Sahne",
+      "quantity": 7,
+      "unit": "Bechern"
+    }
+  ],
+  "instructions": [
+    "Schweinelenden, Schnitzel, Kassler Kotelett und roher Schinken anbraten, würzen und schichtweise in eine feuerfeste Form füllen (Salz, Pfeffer, Paprika). Geschnittene Pilze, ganze Pilze und Zwiebeln hinzufügen. Fleisch anbraten (alles extra), zuletzt Zwiebeln anbraten. Fond lösen, mit 7 Bechern Sahne alles über das Fleisch schütten. Bei 200° 60–75 Min. im Backofen ab und zu umrühren."
+  ],
+  "total_time": "60-75 min",
+  "servings": 10,
+  "tags": [
+    "Main Course",
+    "Meat",
+    "Baking"
+  ]
+}

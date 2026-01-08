@@ -1,0 +1,40 @@
+{
+  "title": "Dunkle Grundsuppe (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Fett",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "Suppengemüse u. 1 Zwiebel",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Flüssigkeit",
+      "quantity": 1.25,
+      "unit": "l"
+    },
+    {
+      "name": "Gewürze",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Zubereitung: wie helle Grundsuppe aber das Mehl muß bräunen. Suppengemüse u. Zwiebel (klein geschnitten) dürfen erst in das gebräunte Fett gegeben werden. ¼ Std. bei offenem Topf kochen lassen, damit die Bitterstoffe entweichen. Anwendung: bei Ochsenschwanzsuppe, Wildsuppe, falsche Ochsenschwanzsuppe, Fleischbrühe u. Haferflockensuppe, Zwiebelsuppe französisch."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Basic Recipe",
+    "Cooking"
+  ]
+}

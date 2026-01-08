@@ -1,0 +1,45 @@
+{
+  "title": "Stippmilch mit Früchten",
+  "ingredients": [
+    {
+      "name": "Quark",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Milch",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Zitrone",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Beeren",
+      "quantity": 350,
+      "unit": "g"
+    },
+    {
+      "name": "Schwarzbrot",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Quark mit Milch, Zucker (Zitrone) sehr schaumig schlagen. Die vorbereiteten Beeren unterheben u. kalt stellen. (Nach Wunsch kann man geriebenes Schwarzbrot per Püriermittel einschichten od. überstreuen.)"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Fruit",
+    "Quark"
+  ]
+}

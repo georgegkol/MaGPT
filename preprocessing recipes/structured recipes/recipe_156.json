@@ -1,0 +1,41 @@
+{
+  "title": "Wiener Biskuitmasse (f. eine Torte)",
+  "ingredients": [
+    {
+      "name": "ganze Eier",
+      "quantity": 8,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 240,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 240,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 2,
+      "unit": "gestr. Teel."
+    }
+  ],
+  "instructions": [
+    "Herstellung: Die ganzen Eier mit dem Zucker verschlagen, auf heißem Wasser dick-schaumig schlagen, 10 Min. kalt schlagen, dann das Mehl u. zuletzt die Butter daruntermischen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Austrian"
+  ]
+}

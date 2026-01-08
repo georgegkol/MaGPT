@@ -1,0 +1,50 @@
+{
+  "title": "Kartoffelgratin",
+  "ingredients": [
+    {
+      "name": "Kartoffeln",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Sahne",
+      "quantity": 1,
+      "unit": "Becher"
+    },
+    {
+      "name": "Muskat",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Butter",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "1. Die Kartoffeln in dünne Scheiben schneiden. 2. Die Zwiebel klein schneiden und mit der Sahne und den Kartoffelscheiben mischen. 3. Eine Auflaufform einfetten und die Mischung hineingeben. 4. Mit reichlich Muskat, Pfeffer und Salz würzen. 5. Mit Butterflöckchen bestreuen und im Ofen überbacken."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Potato",
+    "Baking",
+    "Gratin"
+  ]
+}

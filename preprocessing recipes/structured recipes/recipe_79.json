@@ -1,0 +1,45 @@
+{
+  "title": "Gemüseeintopf (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Bauchspeck",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Fleisch",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Gemüse",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Kartoffeln",
+      "quantity": 750,
+      "unit": "g"
+    },
+    {
+      "name": "Flüssigkeit",
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "Geschmackszutaten",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Speck oder Fleischwürfel andünsten, vorbereitetes Gemüse zufügen, durchdünsten. Flüssigkeit zufügen, dann die Kartoffelstücke in 1½ Std. garen (nicht rühren)."
+  ],
+  "total_time": "1.5 hours",
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Vegetables",
+    "Meat"
+  ]
+}

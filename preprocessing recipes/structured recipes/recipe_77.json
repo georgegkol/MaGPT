@@ -1,0 +1,50 @@
+{
+  "title": "Kartoffelklöße (halb u. halb)",
+  "ingredients": [
+    {
+      "name": "rohe Kartoffeln",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "gekochte Kartoffeln",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Muskat",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "heiße Milch",
+      "quantity": 0.125,
+      "unit": "l"
+    },
+    {
+      "name": "Brötchen",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Butter",
+      "quantity": 20,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Zu Schweine-, Geflügel- oder Sauerbraten."
+  ],
+  "total_time": "20 min",
+  "servings": null,
+  "tags": [
+    "Potato",
+    "German Cuisine",
+    "Side Dish"
+  ]
+}

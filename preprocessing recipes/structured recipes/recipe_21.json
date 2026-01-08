@@ -1,0 +1,35 @@
+{
+  "title": "Fester Knetteig für untere Obsttorten",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Margarine",
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Auf Springformboden ausrollen, mehrmals einstechen. Nach dem Backen Boden lösen, aber erst nach dem Erkalten auf Tortenplatte legen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Pastry"
+  ]
+}

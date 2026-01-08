@@ -1,0 +1,50 @@
+{
+  "title": "Haselnussringe (Foth Odenheim)",
+  "ingredients": [
+    {
+      "name": "Zucker",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "gemahlene Haselnüsse",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 4,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Staubzucker",
+      "quantity": 1,
+      "unit": "kg"
+    }
+  ],
+  "instructions": [
+    "Glasur: 4 Eiweiß und 1 kg Staubzucker sehr schaumig schlagen und vor dem Backen die Plätzchen damit bestreichen. Backofen auf 180–190° vorheizen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

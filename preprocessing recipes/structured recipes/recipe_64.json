@@ -1,0 +1,85 @@
+{
+  "title": "Huhn im Birgmunder",
+  "ingredients": [
+    {
+      "name": "junges Huhn",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Butter",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "Zwiebelwürfel oder Schalotten",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Speck",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "Bierbinder",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "Weinbrand",
+      "quantity": 1,
+      "unit": "Glas"
+    },
+    {
+      "name": "Lorbeerblatt",
+      "quantity": 0.5,
+      "unit": null
+    },
+    {
+      "name": "Pfefferkörner",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Gewürzkörner",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Muskat",
+      "quantity": 1,
+      "unit": "Prise"
+    },
+    {
+      "name": "Champignons",
+      "quantity": 1,
+      "unit": "kleine Dose"
+    },
+    {
+      "name": "Zitrone",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Das Huhn in Portionsstücke zerlegen u. salzen. Im Schmortopf die Butter zergehen lassen. Die Zwiebeln dünsten mit dem gewürfelten Speck leicht an- bräunen u. wieder herausnehmen. Im Bratfett die Hühnerstücke anbraten, mit Mehl bestäuben, Rotwein, Wein- brand u. Gewürze hinzufügen, Deckel darauflegen u. 1–1½ Std. langsam auf Stufe 1 schmoren lassen. Die Soße durch ein Sieb geben, die Speckwürfel hineinfüllen, Champignons zufügen u. pikant abschmecken."
+  ],
+  "total_time": "1-1.5 hours",
+  "servings": null,
+  "tags": [
+    "Poultry",
+    "Main Course",
+    "Traditional"
+  ]
+}

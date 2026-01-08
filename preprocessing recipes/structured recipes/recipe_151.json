@@ -1,0 +1,23 @@
+{
+  "title": "Rosinenkuchen",
+  "ingredients": [
+    {
+      "name": "Rührteiggrundrezept",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "gewaschene Rosinen",
+      "quantity": 125,
+      "unit": "g"
+    }
+  ],
+  "instructions": null,
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Cake",
+    "Baking",
+    "Raisins"
+  ]
+}

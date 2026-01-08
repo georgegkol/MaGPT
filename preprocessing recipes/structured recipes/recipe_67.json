@@ -1,0 +1,39 @@
+{
+  "title": "Buttersauce",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Margarine",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zitrone",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kräutern",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Butter 20 g Margarine zergehen lassen. Evtl. mit Salz, Zitrone u. Kräutern würzen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Sauce",
+    "Cooking"
+  ]
+}

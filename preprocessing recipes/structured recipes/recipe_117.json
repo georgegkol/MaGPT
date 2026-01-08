@@ -1,0 +1,61 @@
+{
+  "title": "Mandelkränzchen",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 1000,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 360,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "geriebene Mandeln",
+      "quantity": 160,
+      "unit": "g"
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Zimt",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Arrak",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Die Glasur ebenfalls vor dem Backen auftragen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies",
+    "Almonds"
+  ]
+}

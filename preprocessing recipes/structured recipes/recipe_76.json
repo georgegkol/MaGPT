@@ -1,0 +1,50 @@
+{
+  "title": "Kartoffelbrei",
+  "ingredients": [
+    {
+      "name": "Kartoffeln",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "heiße Milch",
+      "quantity": 0.25,
+      "unit": "l"
+    },
+    {
+      "name": "Butter",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Fett",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Petersilie",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "1 kg Kartoffeln kochen und mit etwas Salz würzen. ¼ l heiße Milch hinzufügen und 40 g Butter schmelzen. Optional 1 Zwiebel in 20 g Fett rösten und darüber geben. Mit Petersilie anrichten."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Side Dish",
+    "Potato",
+    "Vegetarian"
+  ]
+}

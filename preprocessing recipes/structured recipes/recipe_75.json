@@ -1,0 +1,60 @@
+{
+  "title": "Sandwaffeln",
+  "ingredients": [
+    {
+      "name": "Kokosfett",
+      "quantity": 175,
+      "unit": "g"
+    },
+    {
+      "name": "feinkörniger Zucker",
+      "quantity": 175,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": "Pck."
+    },
+    {
+      "name": "Eier",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rum-Aroma",
+      "quantity": 0.5,
+      "unit": "Fl."
+    },
+    {
+      "name": "Weizenmehl",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Grieß",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 0.5,
+      "unit": "Teel."
+    }
+  ],
+  "instructions": [
+    "In das zerlassene u. wieder etwas er- kaltete Fett Zucker u. Vanillezucker zugeben u. so lange rühren bis Zucker gelöst ist. u. Vanillezucker weißschaumig ge- worden sind. Dann nach u. nach Eier u. Rum-Aroma einrühren. (Jedes Ei etwa 5 Min. unterrühren.) Den Teig im nicht zu großen Mengen in ein erhitztes u. gut gefettetes Waffeleisen füllen u. sofort gut verstreichen. Die Waffeln goldbraun werden lassen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Waffles",
+    "Baking"
+  ]
+}

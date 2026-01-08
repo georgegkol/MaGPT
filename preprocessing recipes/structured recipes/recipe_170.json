@@ -1,0 +1,45 @@
+{
+  "title": "Zimtsterne",
+  "ingredients": [
+    {
+      "name": "Zucker",
+      "quantity": 1,
+      "unit": "Pf."
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Zimt",
+      "quantity": 1.5,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Nelken",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Hirschhornsalz",
+      "quantity": 1.5,
+      "unit": "Teel."
+    },
+    {
+      "name": "Mehl",
+      "quantity": 1,
+      "unit": "Pf."
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

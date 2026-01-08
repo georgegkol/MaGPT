@@ -1,0 +1,55 @@
+{
+  "title": "Zimtwaffeln (Anneliese)",
+  "ingredients": [
+    {
+      "name": "Zucker",
+      "quantity": 2000,
+      "unit": "g"
+    },
+    {
+      "name": "Fett",
+      "quantity": 1000,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 6,
+      "unit": null
+    },
+    {
+      "name": "Zimt",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "name": "Nelken",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 2000,
+      "unit": "g"
+    },
+    {
+      "name": "Rotwein",
+      "quantity": 1,
+      "unit": "Likörglas"
+    },
+    {
+      "name": "Kakao",
+      "quantity": 2,
+      "unit": "Eßl."
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Waffles",
+    "Baking",
+    "Dessert"
+  ]
+}

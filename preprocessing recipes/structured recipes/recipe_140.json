@@ -1,0 +1,45 @@
+{
+  "title": "Mürbeteig (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Margarine",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": "Pck."
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 0.5,
+      "unit": "Pck."
+    }
+  ],
+  "instructions": [
+    "Mehl u. Backpulver auf ein Brett sieben, in der Mitte eine Vertiefung machen, Zucker geben. In die Mitte des Zuckers die Eier geben. Das Fett in Würfel um den Kranz auf das Mehl gaben, Zutaten verhacken u. verarbeiten. Teig mind. 1 Std. ruhen lassen – dann erst verarbeiten."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dough",
+    "Baking",
+    "Basic Recipe"
+  ]
+}

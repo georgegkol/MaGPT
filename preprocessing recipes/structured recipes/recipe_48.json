@@ -1,0 +1,85 @@
+{
+  "title": "Obstsaftsuppe",
+  "ingredients": [
+    {
+      "name": "Obstsaft",
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "Wasser",
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "Bindemittel",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Grießklößchen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schnee",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schwemmklößchen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Äpfel",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Rhabarber",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Stachelbeer",
+      "quantity": 375,
+      "unit": "g"
+    },
+    {
+      "name": "Himbeer",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Zwetschen",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Holunder",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Zitronen Saft",
+      "quantity": 2,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Fruit",
+    "Dessert"
+  ]
+}

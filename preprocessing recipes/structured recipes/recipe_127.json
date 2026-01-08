@@ -1,0 +1,35 @@
+{
+  "title": "Anisplätzchen (Marlene)",
+  "ingredients": [
+    {
+      "name": "Eier (mittelgroß)",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "ganzer Anis",
+      "quantity": 2,
+      "unit": "Teel."
+    }
+  ],
+  "instructions": [
+    "3 Eier (mittelgroß) und 250 g Puderzucker zusammen gut 5 Min. rühren. 250 g Mehl und 2 Teel. ganzer Anis unterrühren. Bei 150° 20 Min. backen."
+  ],
+  "total_time": "25 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

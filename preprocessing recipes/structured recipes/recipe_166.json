@@ -1,0 +1,55 @@
+{
+  "title": "Fastnachtskrapfen",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 75,
+      "unit": "g"
+    },
+    {
+      "name": "Hefe",
+      "quantity": 75,
+      "unit": "g"
+    },
+    {
+      "name": "Margarine",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "name": "Milch",
+      "quantity": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Rosinen",
+      "quantity": 125,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Nach dem 2. Aufgehen mit dem Löffel Bällchen abstechen u. in siedendem Fett ausbacken u. in Zucker wenden."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Doughnut"
+  ]
+}

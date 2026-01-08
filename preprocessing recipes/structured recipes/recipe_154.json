@@ -1,0 +1,50 @@
+{
+  "title": "Zimtsterne",
+  "ingredients": [
+    {
+      "name": "Eiweiß",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zimt",
+      "quantity": 2,
+      "unit": "Teelöffel"
+    },
+    {
+      "name": "fein gemahlene Mandeln oder Nüsse",
+      "quantity": 375,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl, Oblaten",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Eischnee",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 50,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Eiweiß sehr steif schlagen, Zucker zugeben u. ½ Std. schaumig rühren, die gemahlenen Mandeln langsam unterheben. Den Teig auf dünn bemehltem Brett ¾–1 cm dick auswellen, Sterne ausstechen, auf gespaltene Oblaten setzen, mit dünn flüssiger Glasur bestreichen, bei schwacher Hitze u. ganz schwacher Oberhitze langsam backen (mehr trocknen als backen). Die Glasur muß weiß bleiben."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

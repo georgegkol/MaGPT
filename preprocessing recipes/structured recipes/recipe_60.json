@@ -1,0 +1,45 @@
+{
+  "title": "Gekochtes Fleisch (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Rind, Schwein",
+      "quantity": 0.5,
+      "unit": "Pfd."
+    },
+    {
+      "name": "Kalbsnuss oder Huhn oder Zunge",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Suppengrün",
+      "quantity": 1,
+      "unit": "bunch"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Wasser",
+      "quantity": 2,
+      "unit": "l"
+    }
+  ],
+  "instructions": [
+    "Das abgehängte Fleisch kalt und schnell waschen, mit kochendem Wasser aufsetzen, langsam mit etwas Salz u. Suppengrün kochen lassen – Garzeit 2–2½ Stunden"
+  ],
+  "total_time": "2-2.5 hours",
+  "servings": null,
+  "tags": [
+    "Main Course",
+    "Meat",
+    "Boiling"
+  ]
+}

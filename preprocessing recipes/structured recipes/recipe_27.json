@@ -1,0 +1,40 @@
+{
+  "title": "Oblatenkonfekt",
+  "ingredients": [
+    {
+      "name": "Palmin",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Schokolade oder Kuvertüre",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Palmin zergehen lassen, Zucker zugeben, abwechselnd Ei und Schokolade. (Eier einzeln in eine Tasse aufschlagen) Dann alles zum Kochen bringen. Etwas erkalten lassen und auf den Oblaten verteilen. Über Nacht beschweren."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Chocolate",
+    "Baking"
+  ]
+}

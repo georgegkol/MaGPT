@@ -1,0 +1,75 @@
+{
+  "title": "Helle Grundtunke – Grundrezept",
+  "ingredients": [
+    {
+      "name": "Fett",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Flüssigkeit",
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Bechameltunke",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Tomaten",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rahm",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kräuter",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Meerrettich",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Käse",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kapern",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pilztunke",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Zubereitung wie helle Grundsuppe."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Sauce",
+    "Basic Recipe",
+    "Cooking"
+  ]
+}

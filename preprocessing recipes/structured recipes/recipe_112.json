@@ -1,0 +1,55 @@
+{
+  "title": "Englische Paletten",
+  "ingredients": [
+    {
+      "name": "gemahlene Mandeln oder Nüsse",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Korinthen",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Zimt",
+      "quantity": 1,
+      "unit": "Teel."
+    },
+    {
+      "name": "Zitronenschale",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 4,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Mix gemahlene Mandeln oder Nüsse, Zucker, Butter, Korinthen, Mehl, Zimt, Zitronenschale and Eigelb together."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "English"
+  ]
+}

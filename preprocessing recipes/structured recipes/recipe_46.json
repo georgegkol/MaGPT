@@ -1,0 +1,75 @@
+{
+  "title": "MARMORKUCHEN (von Kathi)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": "packet"
+    },
+    {
+      "name": "Zitronensaft",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "pinch"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "packet"
+    },
+    {
+      "name": "Milch",
+      "quantity": 125,
+      "unit": "ml"
+    },
+    {
+      "name": "Kakaopulver",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Semmelbrösel",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Vollmilch",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "1. Mischen: 250 gr Butter, 250 gr Zucker, 4 Eier, 1 x Vanillezucker, Schuß Zitronensaft, Prise Salz. 2. Mischen: 500 gr Mehl, 1 x Backpulver. Beides gut rühren und dann mischen – 1/8 l Milch dazu. Teig teilen und 1 Hälfte mit Kakaopulver mischen. Form: einfetten und Semmelbrösel rein. Teig in Form: weiß, schwarz, weiß (Gabel durchziehen). Ofen: 200 Grad (40–60 Minuten). Glasur: Vollmilch."
+  ],
+  "total_time": "60 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking"
+  ]
+}

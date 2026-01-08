@@ -1,0 +1,40 @@
+{
+  "title": "Helle Grundsuppe – Grundrezept",
+  "ingredients": [
+    {
+      "name": "Fett",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Suppengrün",
+      "quantity": 125,
+      "unit": "ml"
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Flüssigkeit (etwa ½ Br. ½ Milch)",
+      "quantity": 1.25,
+      "unit": "l"
+    }
+  ],
+  "instructions": [
+    "Fett zergehen lassen, Mehl einstäuben, rühren bis es hellgelb ist (schwitzen). Nach u. nach die kalte Flüssigkeit zugießen. Die Mehlschwitze muß nach jeder Flüssigkeitszugabe wieder aufkochen. Bei Verwendung von Suppengemüse u. Zwiebeln diese vor dem Mehle ins Fett geben u. andünsten."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Base Recipe",
+    "Vegetables"
+  ]
+}

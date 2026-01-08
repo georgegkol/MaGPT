@@ -1,0 +1,87 @@
+{
+  "title": "Dänische Apfeltorte",
+  "ingredients": [
+    {
+      "name": "Zucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Eier",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 0.5,
+      "unit": "Pck."
+    },
+    {
+      "name": "Äpfel",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Korinthen",
+      "quantity": 75,
+      "unit": "g"
+    },
+    {
+      "name": "gehackte Mandeln",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Zimt",
+      "quantity": 0.5,
+      "unit": "Teel."
+    },
+    {
+      "name": "saure Sahne",
+      "quantity": 0.25,
+      "unit": "l"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Eischnee",
+      "quantity": 3,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Rührteig herstellen, aufs Blech streichen oder 2 kl. Springformen. Äpfel auflegen. Mischung aus Korinthen, Mandeln u. Zimt auf die Äpfel streuen. Aus saurer Sahne, Vanillezucker, Eigelb u. Eischnee einen Guß herstellen u. über die Äpfel gießen. Torte bei Mittelhitze (180°) goldgelb backen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Apple",
+    "Danish"
+  ]
+}

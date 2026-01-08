@@ -1,0 +1,30 @@
+{
+  "title": "Tutti-Frutti",
+  "ingredients": [
+    {
+      "name": "Milch",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "Flammeri",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Obst",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Von ½ l Milch einen Flammeri nach Grundrezept herstellen. In eine Schüssel eine Lage Pudding, eine Lage Obst einfüllen u. s. w."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Fruit",
+    "Pudding"
+  ]
+}

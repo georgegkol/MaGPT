@@ -1,0 +1,62 @@
+{
+  "title": "Boden f. Schwarzwälder Kirschtorte",
+  "ingredients": [
+    {
+      "name": "Margarine",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Vanille",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Eier",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "geschälte Mandeln",
+      "quantity": 75,
+      "unit": "g"
+    },
+    {
+      "name": "Schokolade",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Stärkemehl",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 2,
+      "unit": "Teel."
+    }
+  ],
+  "instructions": [
+    "125 g Margarine 125 g Zucker 1 Vanille 3 Eier 75 g geschälte Mandeln 125 g Schokolade 150 g Mehl 50 g Stärkemehl 2 Teel. Backpulver"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Chocolate",
+    "Almonds"
+  ]
+}

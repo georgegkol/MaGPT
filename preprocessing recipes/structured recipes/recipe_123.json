@@ -1,0 +1,70 @@
+{
+  "title": "Walnusschnitten (Luise Mohr)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Walnüsse",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 3,
+      "unit": "Teel."
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Pulverkaffee",
+      "quantity": 2,
+      "unit": "Teel."
+    },
+    {
+      "name": "Weinbrand",
+      "quantity": 3,
+      "unit": "Eßl."
+    },
+    {
+      "name": "heißes Wasser",
+      "quantity": 2,
+      "unit": "Eßl."
+    }
+  ],
+  "instructions": [
+    "Bei 200° 15–20 Min. backen. Alles auf ein Blech streichen, backen u. mit dem Guß bestreichen. Mit halben Walnüssen belegen u. Rauten oder Quadrate schneiden."
+  ],
+  "total_time": "20 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Walnuts"
+  ]
+}

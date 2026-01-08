@@ -1,0 +1,45 @@
+{
+  "title": "Haselnussküsse (Mürbeteig)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Kokosflocken oder Haselrüder",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Marmelade",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Kleine Kugeln formen, diese erst in Eigelb, dann in Kokosflocken oder Haselrüder wälzen. Auf Blech legen u. mit Holzlöffelstiel eine Vertiefung machen, mit Marmelade füllen u. goldgelb backen (ca. 200°)."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

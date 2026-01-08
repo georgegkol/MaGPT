@@ -1,0 +1,81 @@
+{
+  "title": "Hackfleischverwendung – Hackfleisch (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Hackfleisch",
+      "quantity": 375,
+      "unit": "g"
+    },
+    {
+      "name": "alte Brötchen",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "gekochte geriebene Kartoffeln",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "Reis",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "name": "zarte Haferflocken",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "rohe geriebene Kartoffeln",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Kartoffelmehl",
+      "quantity": 2,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Mehl",
+      "quantity": 2,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Zwiebeln in Würfel",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Petersilie",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Alle Zutaten sehr gut miteinander vermischen, Teig ausarbeiten. (Hackfleisch aus der Gefriertruhe braucht mehr Eier, da es an Bindekraft verliert.) Hackfleischverwendung: In Fleischgerichten: Hackbraten Bratklopse Königsberger Klopse Fleischpudding Ossobuco, Beefsteak gefüllte Rouladen Vogelnetze In Gemüsegerichten: Kohlrouladen Kohlpudding Kohlauflauf gefüllter Kohlkopf gefüllte Tomaten, Gurken Paprika, Kohlrabi Klößchen f. Suppen Tunke, Ragout"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Meat",
+    "Ground Meat",
+    "Main Course",
+    "Versatile"
+  ]
+}

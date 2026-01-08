@@ -1,0 +1,47 @@
+{
+  "title": "Baumstammfüllung (Pinsel)",
+  "ingredients": [
+    {
+      "name": "Nüsse",
+      "quantity": 0.25,
+      "unit": null
+    },
+    {
+      "name": "Palmin",
+      "quantity": 1,
+      "unit": "Ecke"
+    },
+    {
+      "name": "Kakao",
+      "quantity": 1,
+      "unit": "EL"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Wasser",
+      "quantity": 4,
+      "unit": "EL"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Nuts",
+    "Cocoa",
+    "Sugar",
+    "Water",
+    "Egg"
+  ]
+}

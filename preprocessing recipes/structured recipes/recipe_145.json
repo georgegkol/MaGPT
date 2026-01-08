@@ -1,0 +1,35 @@
+{
+  "title": "Quirbauer",
+  "ingredients": [
+    {
+      "name": "Grundrezept Rührteig",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Stärke Mehl",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Puddingpulver",
+      "quantity": 2,
+      "unit": "Pck."
+    },
+    {
+      "name": "Eßlöffeln",
+      "quantity": 2,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Mit 2 Eßlöffeln oder Spritzbeutel Plätzchen auf das Blech setzen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

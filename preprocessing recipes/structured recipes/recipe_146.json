@@ -1,0 +1,50 @@
+{
+  "title": "Kekse (Rührteig)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": "Pck."
+    },
+    {
+      "name": "Mehl",
+      "quantity": 750,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "Teel."
+    },
+    {
+      "name": "Ei oder Zitronenglasur",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Den erkalteten Teig messerrückendick ausrollen, Kekse ausstechen, bei guter Mittelhitze auf dem Blech backen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

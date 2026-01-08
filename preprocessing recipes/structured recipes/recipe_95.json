@@ -1,0 +1,45 @@
+{
+  "title": "Kirschcreme",
+  "ingredients": [
+    {
+      "name": "Sauerkirschen",
+      "quantity": 1,
+      "unit": "kleines Glas"
+    },
+    {
+      "name": "Fett",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": "Pck."
+    },
+    {
+      "name": "Sahne",
+      "quantity": 0.125,
+      "unit": "l"
+    },
+    {
+      "name": "Wasser",
+      "quantity": 0.5,
+      "unit": "l"
+    }
+  ],
+  "instructions": [
+    "Kirschen abtropfen lassen vom Saft. ½ l Wasser (evtl. mit Wasser ergänzen). Flammeri daraus herstellen. Unter dem noch nicht fest gewordenen Flammeri die Kirschen mischen u. nach dem Erkalten die steifgeschlagene Sahne unterziehen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cream",
+    "Cherry"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Buttertalers (Helene Odenwälder)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Arrak",
+      "quantity": 1,
+      "unit": "Schuß"
+    },
+    {
+      "name": "Kartoffelmehl",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 130,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Rührteig vorbereiten, fingerdicke Rollen formen, erkalten lassen. 4 cm lang abschneiden u. mit der Gabel platt drücken. Bei 180° goldgelb backen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

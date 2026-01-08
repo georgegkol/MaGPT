@@ -1,0 +1,46 @@
+{
+  "title": "Tortenboden (Knetteig) für Obstkuchen (v. Frau Seifert)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 0.25,
+      "unit": "Teel."
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Prise"
+    },
+    {
+      "name": "kaltes Wasser",
+      "quantity": 0.5,
+      "unit": "Eischale"
+    }
+  ],
+  "instructions": [
+    "Alles miteinander verkneten, dünn ausrollen u. das Obst auf dem Teig mitbacken."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Fruit"
+  ]
+}

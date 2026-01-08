@@ -1,0 +1,40 @@
+{
+  "title": "TRÜFFEL",
+  "ingredients": [
+    {
+      "name": "Schokolade",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Kakao",
+      "quantity": 1,
+      "unit": "TL"
+    }
+  ],
+  "instructions": [
+    "Alles gut verrühren, Kugeln formen, in Kakao oder Schokolade wälzen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Truffles",
+    "Chocolate"
+  ]
+}

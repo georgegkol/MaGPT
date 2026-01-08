@@ -1,0 +1,105 @@
+{
+  "title": "Frankfurter grüne Soße",
+  "ingredients": [
+    {
+      "name": "Petersilie",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schnittlauch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kerbel",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kresse",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Sauerampfer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Borretsch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pimpinelle",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Dill",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Estragon",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zitronenmelisse",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rucola",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Magerquark",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Joghurt",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "saure Sahne",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "hartgekochte Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zitronensaft",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Kräuter fein schneiden oder mixen. Eier klein schneiden und alle Zutaten vermischen, mit Salz, Pfeffer und Zitronensaft abschmecken. Dazu gibt man Salzkartoffeln und gekochte Tafelspitze."
+  ],
+  "total_time": null,
+  "servings": 4,
+  "tags": [
+    "German Cuisine",
+    "Sauce",
+    "Vegetarian"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Schokoladenkuchen",
+  "ingredients": [
+    {
+      "name": "Rührteiggrundrezept",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schokolade (Milchschokolade)",
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Rührteiggrundrezept u. 100 g Schokolade (Milchschokolade) in Ecken schneiden"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Chocolate"
+  ]
+}

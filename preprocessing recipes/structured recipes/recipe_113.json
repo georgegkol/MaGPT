@@ -1,0 +1,45 @@
+{
+  "title": "Wespennester",
+  "ingredients": [
+    {
+      "name": "geschälte geriebene Mandeln",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 3,
+      "unit": "Eßl"
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Schokolade",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Teel",
+      "quantity": 2,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Die Mandeln werden mit 3 Eßl. Zucker geröstet. 3 Eiweiß schlägt man zu Schnee u. mischt sie gut mit ½ kg Zucker dann gibt man 100 g Schokolade dazu, setzt sie mit 2 Teel. auf Blech u. bäckt sie ab."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

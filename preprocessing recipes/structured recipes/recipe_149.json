@@ -1,0 +1,50 @@
+{
+  "title": "Punschbrot",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": "gr"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zimt",
+      "quantity": 0.5,
+      "unit": "Eßl"
+    },
+    {
+      "name": "Nelken",
+      "quantity": 1,
+      "unit": "Messerspitze"
+    },
+    {
+      "name": "Orangeat",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 350,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 0.5,
+      "unit": "Pck"
+    }
+  ],
+  "instructions": [
+    "Aus Eiern u. Zucker eine Schaummasse herstellen (Küchenmaschine) Gewürze, feingeschnittenes Orangeat zuletzt alles unterheben. Auf je ein Blech 1½–2 cm dick aufstreichen, bei Mittelhitze goldgelb backen, noch warm in fingerlange, daumenbreite Streifen schneiden. Bei 200° backen. Unterseite glasieren."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Baking",
+    "Dessert",
+    "Bread"
+  ]
+}

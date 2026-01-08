@@ -1,0 +1,60 @@
+{
+  "title": "Pürierte Zwiebelsuppe",
+  "ingredients": [
+    {
+      "name": "Zwiebeln",
+      "quantity": 5,
+      "unit": "mittelgroße"
+    },
+    {
+      "name": "Kartoffeln",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Butter",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "Gemüsebrühe",
+      "quantity": 1,
+      "unit": "l"
+    },
+    {
+      "name": "Sahne",
+      "quantity": 0.25,
+      "unit": "l"
+    },
+    {
+      "name": "Petersilie",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Muskat",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Zwiebeln und Kartoffeln zerkleinern, hacken. Mit Butter 20 Min. dünsten. Darauf achten, daß nichts anbrennt. Brühe dazugeben und würzen. Etwa 10 Min. kochen. Die Suppe in der Küchenmaschine pürieren oder durch ein Sieb schlagen. Die Hälfte der Sahne zugeben. Die andere Hälfte steif schlagen und als Tupfer auf die Suppe gaben und mit Petersilie bestreuen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Vegetarian",
+    "German Cuisine"
+  ]
+}

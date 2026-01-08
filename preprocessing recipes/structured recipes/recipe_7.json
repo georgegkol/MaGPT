@@ -1,0 +1,50 @@
+{
+  "title": "Blumenkohlsuppe",
+  "ingredients": [
+    {
+      "name": "Blumenkohl",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Wasser",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Teel."
+    },
+    {
+      "name": "Butter oder Margarine",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Milch",
+      "quantity": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "kaltes Wasser zum verrühren",
+      "quantity": 2,
+      "unit": "Eßl."
+    }
+  ],
+  "instructions": [
+    "null"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Vegetable",
+    "Cooking"
+  ]
+}

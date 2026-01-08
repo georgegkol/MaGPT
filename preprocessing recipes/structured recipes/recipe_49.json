@@ -1,0 +1,50 @@
+{
+  "title": "Suppeneinlagen",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Weckmehl",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "name": "gekochte geriebene Kartoffeln",
+      "quantity": 75,
+      "unit": "g"
+    },
+    {
+      "name": "Petersilie",
+      "quantity": 1,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Muskat",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Herstellung wie Markklößchen"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Soup",
+    "German Cuisine",
+    "Side Dish"
+  ]
+}

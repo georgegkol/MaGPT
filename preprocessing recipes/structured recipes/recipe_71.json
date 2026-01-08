@@ -1,0 +1,85 @@
+{
+  "title": "Gedünstetes Gemüse",
+  "ingredients": [
+    {
+      "name": "Fett",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Wasser",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Gemüse",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Erbsen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Bohnen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Möhren",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kohlrabi",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rotkohl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Sauerkraut",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zwiebeln",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Tomaten",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Gurken",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Lauch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Steckrüben",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Vegetables",
+    "Healthy",
+    "Cooking"
+  ]
+}

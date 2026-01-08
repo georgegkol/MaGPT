@@ -1,0 +1,55 @@
+{
+  "title": "Zimtwaffeln (Frau Pulz)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 375,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 600,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 6,
+      "unit": null
+    },
+    {
+      "name": "Zimt",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "name": "Nelken",
+      "quantity": 1,
+      "unit": "Messerspitze"
+    },
+    {
+      "name": "Kakao",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Cognac",
+      "quantity": 2,
+      "unit": "cl"
+    },
+    {
+      "name": "Mehl",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Waffles",
+    "Cinnamon",
+    "Baking"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Heidelbeertorte",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Mandelboden",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Marmelade",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Heidelbeeren",
+      "quantity": 3,
+      "unit": "Gläser"
+    },
+    {
+      "name": "Saft",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Tortenguss",
+      "quantity": 3,
+      "unit": "Päckchen"
+    },
+    {
+      "name": "Sahne",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Eierlikör",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Biskuit von 2 Eiern, darunter ein Mandelboden (mit Marmelade bestreichen). Auf den Biskuit 3 Gläser Heidelbeeren. Saft für 3 Päckchen Tortenguss, Heidelbeeren unterziehen. Mit Sahne bestreichen und verzieren, in die Mitte etwas Eierlikör."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Berries"
+  ]
+}

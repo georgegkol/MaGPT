@@ -1,0 +1,40 @@
+{
+  "title": "Mandel- oder Nußhäufchen",
+  "ingredients": [
+    {
+      "name": "Eiweiß",
+      "quantity": 3,
+      "unit": "große"
+    },
+    {
+      "name": "feiner Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Saft oder Schale einer halben Zitrone",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "geschälte Mandeln oder Nüsse",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Oblaten",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Eiweißteig herstellen, geriebene Nüsse unterheben, mit Kaffeelöffel kleine Häufchen auf Oblaten setzen, bei schwacher Hitze langsam backen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Nuts"
+  ]
+}

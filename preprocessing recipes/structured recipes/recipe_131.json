@@ -1,0 +1,60 @@
+{
+  "title": "Bäuerleibchen (Mürbeteig)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Margarine",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Zimt",
+      "quantity": 1,
+      "unit": "Pr."
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Mandeln",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "Zimt",
+      "quantity": 1,
+      "unit": "Pr."
+    }
+  ],
+  "instructions": [
+    "Runde Plätzchen ausstechen, mit Marzipanmasse füllen, von 3 Seiten hochschlagen zu einem Häufchen, hell abbacken u. mit Puderzucker bestreuen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

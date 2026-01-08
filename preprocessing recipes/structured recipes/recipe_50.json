@@ -1,0 +1,95 @@
+{
+  "title": "Gulaschsuppe (tirol.)",
+  "ingredients": [
+    {
+      "name": "Fleisch: halb Rind – halb Schwein",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Dörrfleisch",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Paprikaschoten",
+      "quantity": 5,
+      "unit": null
+    },
+    {
+      "name": "Zwiebeln",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "große Kartoffeln",
+      "quantity": 10,
+      "unit": null
+    },
+    {
+      "name": "Dosen Pilze",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Paprika",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Dose Tomatenmark",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Tabasco",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Wein",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Karotten",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Weißwurzel",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Gulasch",
+      "quantity": 1,
+      "unit": "kg"
+    }
+  ],
+  "instructions": [
+    "Mit Wein ablöschen u. mit etwas Mehl binden. Erste nach Karotten u. Weißwurzel reinfallen!"
+  ],
+  "total_time": null,
+  "servings": 6,
+  "tags": [
+    "Soup",
+    "Meat",
+    "Vegetables"
+  ]
+}

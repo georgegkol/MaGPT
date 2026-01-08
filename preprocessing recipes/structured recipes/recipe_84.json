@@ -1,0 +1,36 @@
+{
+  "title": "Pochierte Eier",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Milch",
+      "quantity": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "Schinken",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Hartkäse",
+      "quantity": 30,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "4 Tassen einfetten (mit Weckmehl ausstreuen). Eier mit Salz u. Milch verschlagen, den gewürfelten Schinken u. den geriebenen Käse darin verteilen u. 20 Min. im Wasserbad garziehen lassen."
+  ],
+  "total_time": "20 min",
+  "servings": 4,
+  "tags": [
+    "Breakfast",
+    "Eggs",
+    "Cheese",
+    "Ham"
+  ]
+}

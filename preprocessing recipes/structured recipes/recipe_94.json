@@ -1,0 +1,45 @@
+{
+  "title": "Kaltgerührte Creme (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 3.5,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "name": "Flüssigkeit",
+      "quantity": 4,
+      "unit": "Eßl"
+    },
+    {
+      "name": "Gelatine",
+      "quantity": 4,
+      "unit": "Blatt"
+    },
+    {
+      "name": "Schlagsahne",
+      "quantity": 0.3125,
+      "unit": "l"
+    },
+    {
+      "name": "Geschmackszutaten",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Die Eigelbe unter mit 3 Eßl. heißem Wasser u. dem Schneebesen schaumig schlagen, den Zucker nach u. nach zugeben u. abschlagen bis die Masse dick-cremeartig ist; danach Geschmacksstoffe, Flüssigkeit u. aufgelöste Gelatine unterheben."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Creme",
+    "Cold Stirred"
+  ]
+}

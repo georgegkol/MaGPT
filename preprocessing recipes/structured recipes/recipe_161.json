@@ -1,0 +1,66 @@
+{
+  "title": "Apfelsinentorte",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 0.5,
+      "unit": "packet"
+    },
+    {
+      "name": "Zitronenschale",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Orangenschale",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Zitronensaft",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Orangensaft",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Sandkuchenteig machen, etwa ⅓ des Saftes unterrühren u. die restlichen ⅔ mit 100 g Puderzucker mischen u. während des Backens 2× vorsichtig über den Kuchen träufeln. Mit einem Löffel Löcher in die Torte gaben. Zum Backen 1 Springform nehmen, nach dem Erkalten aus der Springform nehmen u. mit Puderzucker bestäuben."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Citrus"
+  ]
+}

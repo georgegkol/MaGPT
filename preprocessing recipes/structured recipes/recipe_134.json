@@ -1,0 +1,55 @@
+{
+  "title": "Schmalzringe (Mürbeteig)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Hirschhornsalz",
+      "quantity": 1,
+      "unit": "Messerspitze"
+    },
+    {
+      "name": "Wasser",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Vanille",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Schmalz",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Kakao",
+      "quantity": 50,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Kleine Riegel formen, in der Mitte etwas eindrücken, bei 175° abbacken."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

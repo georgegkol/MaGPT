@@ -1,0 +1,30 @@
+{
+  "title": "Kokosmakronen",
+  "ingredients": [
+    {
+      "name": "Eiweiß",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 225,
+      "unit": "g"
+    },
+    {
+      "name": "Kokosraspel",
+      "quantity": 200,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "4 Eiweiß zu steifem Schnee schlagen, 225–230 g Puderzucker einrieseln lassen u. etwa 200 g Kokosraspel unterheben. Plätzchen auf Backpapier setzen u. bei 125° 20–25 Min. backen!"
+  ],
+  "total_time": "25 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

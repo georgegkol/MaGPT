@@ -1,0 +1,56 @@
+{
+  "title": "Eierlikörkuchen",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 5,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 0.5,
+      "unit": "Pf"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Eierlikör",
+      "quantity": 1,
+      "unit": "Tasse"
+    },
+    {
+      "name": "Öl",
+      "quantity": 1,
+      "unit": "Tasse"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 0.5,
+      "unit": "Päckch"
+    },
+    {
+      "name": "dunkle Kuchenglasur",
+      "quantity": 1,
+      "unit": "Päckch"
+    }
+  ],
+  "instructions": [
+    "5 Eier, ½ Pf. Puderzucker, 1 Vanillezucker schaumig rühren. 1 Tasse Eierlikör, 1 Tasse Öl, 300 g Mehl, ½ Päckch. Backpulver hinzufügen. Mit 1 Päckch. dunkle Kuchenglasur garnieren."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Eierlikör"
+  ]
+}

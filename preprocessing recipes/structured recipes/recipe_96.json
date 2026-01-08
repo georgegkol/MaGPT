@@ -1,0 +1,45 @@
+{
+  "title": "Fein abgeschlagene Creme (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 2.5,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "name": "Mondamin oder ähnliche Bindemittel",
+      "quantity": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Gelatine",
+      "quantity": 3.5,
+      "unit": "Blatt"
+    },
+    {
+      "name": "Flüssigkeit – Milch, Wein, Most oder Zitronenwasser",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "geschlagene Sahne",
+      "quantity": 0.125,
+      "unit": "l"
+    }
+  ],
+  "instructions": [
+    "Eigelb u. Zucker schaumig rühren, Bindemittel u. Flüssigkeit zugeben, auf der Platte Stufe II mit dem Schneebesen abschlagen, bis sich am Schläger keine Blasen mehr bilden. Vom Feuer nehmen u. die vorbereitete Gelatine zugeben. Wenn durch die Masse eine Straße zu ziehen ist, Eischnee unterheben oder statt dessen zur Verfeinerung ⅛ l geschlagene Sahne."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Creme",
+    "Cooking"
+  ]
+}

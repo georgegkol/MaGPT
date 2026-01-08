@@ -1,0 +1,40 @@
+{
+  "title": "Gedünsteter Fisch (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Fisch",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Fett oder Speck",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Suppengrün",
+      "quantity": 1,
+      "unit": "Bund"
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Säubern, würzen, salzen. Fisch in die Auflaufform legen, Fett u. Suppengemüse zufügen, Deckel schließen. Ca. 20–30 Min. garen (180–200°) in der Form anrichten."
+  ],
+  "total_time": "20-30 min",
+  "servings": null,
+  "tags": [
+    "Fish",
+    "Main Course",
+    "Baking"
+  ]
+}

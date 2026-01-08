@@ -1,0 +1,55 @@
+{
+  "title": "Berliner Ballen",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Hefe",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "name": "Margarine",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "name": "Milch",
+      "quantity": 125,
+      "unit": "ml"
+    },
+    {
+      "name": "Eier",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Teel."
+    },
+    {
+      "name": "abgeriebene Zitronenschale",
+      "quantity": 1,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Nach dem 2. Aufgehen fingerdick ausrollen, Kreise ausstechen (6 cm Ø), evtl. mit Marmelade füllen. Ränder mit Eiweiß bestreichen, Teigdeckel aufsetzen, andrücken u. nach dem Aufgehen im Fettbad backen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Berliner"
+  ]
+}

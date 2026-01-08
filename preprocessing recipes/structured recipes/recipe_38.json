@@ -1,0 +1,50 @@
+{
+  "title": "Einkochen der Früchte",
+  "ingredients": [
+    {
+      "name": "H2O",
+      "quantity": 1,
+      "unit": "l"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "rote Johannisbeeren",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "schwarze Johannisbeeren",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Sauerkirschen",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Rhabarber",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Stachelbeeren",
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Zuckerlösung: 1 l H2O und 500–1000 g Zucker (je nach Süßigkeit der Früchte oder trockener u. Wasser) mischen. Rote Johannisbeeren 100 gr., schwarze Johannisbeeren 150 gr., Sauerkirschen 100 gr., Rhabarber 150 gr., Stachelbeeren 100 gr. jeweils 45 Min. einkochen."
+  ],
+  "total_time": "45 min",
+  "servings": null,
+  "tags": [
+    "Fruit",
+    "Preserving",
+    "Cooking"
+  ]
+}

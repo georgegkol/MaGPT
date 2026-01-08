@@ -1,0 +1,60 @@
+{
+  "title": "Kopenhagener Fischschnitte",
+  "ingredients": [
+    {
+      "name": "Schellfischfilet",
+      "quantity": 750,
+      "unit": "g"
+    },
+    {
+      "name": "Schmelzkäse",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Margarine",
+      "quantity": 35,
+      "unit": "g"
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Tomatenmark",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Paprika",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zitronensaft",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Filet säubern, würzen, salzen. Auflaufform fetten, Fisch hinein- legen. Aus Margarine, Schmelzkäse, Tomatenmark u. den Gewürzen eine Creme bereiten, gut abschmecken, über den Fisch streichen u. ca. 30 Minuten im Backofen überbacken."
+  ],
+  "total_time": "30 min",
+  "servings": null,
+  "tags": [
+    "Fish",
+    "Baking",
+    "Main Course"
+  ]
+}

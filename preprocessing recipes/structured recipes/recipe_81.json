@@ -1,0 +1,40 @@
+{
+  "title": "Flammeri (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Milch",
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "feines Bindemittel",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "grobe Grießkörner",
+      "quantity": 75,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 1,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Milch kochen, das mit Milch u. Eigelb angerührte Bindemittel einrühren, Grieß einstreuen u. aufkochen lassen. Eischnee unter die heiße Masse geben, einfüllen in eine ausgespülte Schüssel oder Form."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Pudding",
+    "Cooking"
+  ]
+}

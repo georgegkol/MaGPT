@@ -1,0 +1,101 @@
+{
+  "title": "Pikanter Reissalat",
+  "ingredients": [
+    {
+      "name": "Reis",
+      "quantity": 1,
+      "unit": "Tasse"
+    },
+    {
+      "name": "Brühe",
+      "quantity": 2,
+      "unit": "Tassen"
+    },
+    {
+      "name": "Gemüse",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Schnittlauch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Möhren",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Lauch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Sellerie",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Paprika",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Räucherfleisch oder Bockwürste",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mayonnaise",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Worcestersoße",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Gurken",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Radieschen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Petersilie",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kapern",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Gemüse oder Tomatenmarke",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "1 Tasse Reis mit 2 Tassen Brühe gar kochen u. abkühlen lassen. Beliebige Gemüse 150–200 g, Schnittlauch, z. B. Möhren, Lauch, Sellerie, Paprika, etwas Räucherfleisch oder Bockwürste, etwas Mayonnaise, Salz, Worcestersoße u. Gurken zugeben u. mischen. In Portionsschälchen anrichten u. ein Radieschen obenauf legen. Verzieren mit Petersilie, Kapern, Gemüse oder Tomatenmarke."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Salad",
+    "Rice",
+    "Vegetables",
+    "Sausage"
+  ]
+}

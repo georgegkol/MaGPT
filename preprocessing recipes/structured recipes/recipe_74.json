@@ -1,0 +1,46 @@
+{
+  "title": "Käsepfanne",
+  "ingredients": [
+    {
+      "name": "Weißbrot oder (Reste von Brötchen u.s.w.)",
+      "quantity": 350,
+      "unit": "g"
+    },
+    {
+      "name": "Schnittkäse (40%ig gerieben)",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Milch",
+      "quantity": 0.25,
+      "unit": "l"
+    },
+    {
+      "name": "Fett",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Muskat",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Auflaufform fetten u. mit dünnen klein- geschnittenen Weißbrotwürfeln auslegen, Käse darüberstreuen, mit etwas Muskat würzen. 2–3× wiederholen, Eiermilch dar- übergießen. Im vorgeheizten Backofen bei 180° 15–20 Min. überbacken."
+  ],
+  "total_time": "20 min",
+  "servings": null,
+  "tags": [
+    "Cheese",
+    "Bread",
+    "Baking",
+    "Casserole"
+  ]
+}

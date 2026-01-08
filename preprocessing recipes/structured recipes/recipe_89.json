@@ -1,0 +1,35 @@
+{
+  "title": "Schokoladentunke",
+  "ingredients": [
+    {
+      "name": "Milch",
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "Milch",
+      "quantity": 2,
+      "unit": "tablespoons"
+    },
+    {
+      "name": "Bindemittel",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Schokolade oder Kakao",
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Grundrezept Flammeri"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Chocolate",
+    "Cooking"
+  ]
+}

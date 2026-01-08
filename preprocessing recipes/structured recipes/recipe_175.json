@@ -1,0 +1,70 @@
+{
+  "title": "Kartoffelsuppe",
+  "ingredients": [
+    {
+      "name": "Zwiebeln",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Scheiben Dörrfleisch",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Möhren",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Stangen Lauch",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Kartoffeln",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Wasser",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Gemüsebrühe",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schnittlauch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "süße Sahne",
+      "quantity": null,
+      "unit": "Schuss"
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "1. Zwiebeln und Dörrfleisch in Würfel schneiden und anbraten.\n2. Möhren, Lauch und ausreichend Kartoffeln (kleingeschnitten) hinzufügen.\n3. Mit Wasser und Gemüsebrühe leicht abdecken und köcheln lassen.\n4. Mit einem Pürierstab die Suppe pürieren.\n5. Schnittlauch und einen Schuss süße Sahne hinzufügen.\n6. Mit Pfeffer und Salz abschmecken."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Potato",
+    "Vegetables"
+  ]
+}

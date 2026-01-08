@@ -1,0 +1,50 @@
+{
+  "title": "Kalt gerührte Mohrenköpfe",
+  "ingredients": [
+    {
+      "name": "Eigelb",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 3,
+      "unit": "Eßl"
+    },
+    {
+      "name": "Rum oder Vanille",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "aufgelöste Gelatine",
+      "quantity": 6,
+      "unit": "Blatt"
+    },
+    {
+      "name": "Schlagsahne",
+      "quantity": 0.25,
+      "unit": "l"
+    },
+    {
+      "name": "Eischnee",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Sahne zum Spritzen",
+      "quantity": 0.125,
+      "unit": "l"
+    }
+  ],
+  "instructions": [
+    "4 Eigelb u. 3 Eßl. Zucker schaumig rühren, etwas Rum oder Vanille dazugeben u. 6 Blatt aufgelöste Gelatine zugeben. ¼ l Schlagsahne u. die 4 Eischnee unterheben. Von der Sahne ⅛ l zum Spritzen zurücklassen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cream"
+  ]
+}

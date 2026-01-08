@@ -1,0 +1,30 @@
+{
+  "title": "Marmorkuchen",
+  "ingredients": [
+    {
+      "name": "Rührteiggrundrezept",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kakao",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 50,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Cake",
+    "Baking",
+    "Chocolate"
+  ]
+}

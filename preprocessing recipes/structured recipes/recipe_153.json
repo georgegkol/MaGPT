@@ -1,0 +1,75 @@
+{
+  "title": "Rebkuchen",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Zitronat",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "name": "Orangeat",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "name": "Zimt",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Nelken",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kardamom",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kakao",
+      "quantity": 1,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Hirschhornsalz",
+      "quantity": 0.5,
+      "unit": "Röhrchen"
+    },
+    {
+      "name": "Mandeln oder Nüsse",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Honig",
+      "quantity": 1,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Mehl",
+      "quantity": 750,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Eier schaumig rühren, Zucker etwa ½ Std. mitrühren, nacheinander die anderen Zutaten dazugeben. Den festen Teig messerrückendick auf 2 Blechen verteilen. Etwa 20 Min. bei 200° backen u. in Quadrate schneiden. Erkalten lassen u. mit Zitronenglasur bestreichen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cake"
+  ]
+}

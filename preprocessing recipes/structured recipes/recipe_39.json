@@ -1,0 +1,30 @@
+{
+  "title": "Gelee",
+  "ingredients": [
+    {
+      "name": "Saft",
+      "quantity": 1,
+      "unit": "l"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Saft von 1 Zitrone",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Den Saft zum Kochen bringen, die erste Hälfte des Zuckers einrühren, wieder aufkochen lassen u. die 2. Hälfte des Zuckers einrühren. Kurz aufkochen lassen u. die Geleeprobe machen (besonders gut gelieren Johannis- u. Brombeeren). Gelee abschäumen, heiß in die Gläser füllen u. verschließen. Zu langes Kochen vermindert die Gelierfähigkeit, darum niemals mehr als 1 1/2 – 2 l Saft zu Gelee kochen. Der Saft von 1 Zitrone (bei Apfel u. Quitten) erhöht gute Gelier- die Säure u. erhöht die Gelier- fähigkeit."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Jelly",
+    "Cooking"
+  ]
+}

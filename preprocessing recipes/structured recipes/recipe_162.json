@@ -1,0 +1,50 @@
+{
+  "title": "Windbeutel (Brandteig)",
+  "ingredients": [
+    {
+      "name": "Wasser",
+      "quantity": 125,
+      "unit": "ml"
+    },
+    {
+      "name": "Milch",
+      "quantity": 125,
+      "unit": "ml"
+    },
+    {
+      "name": "Butter",
+      "quantity": 65,
+      "unit": "g"
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Pr."
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": "Pck."
+    },
+    {
+      "name": "Mehl",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Herstellung siehe Brandteig. Ergibt 12–16 Windbeutel, die auf ein gefettetes u. bemehltes Blech gesetzt werden. Etwa 30–40 Min. bei 200° backen."
+  ],
+  "total_time": "30-40 min",
+  "servings": 12,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Pastry"
+  ]
+}

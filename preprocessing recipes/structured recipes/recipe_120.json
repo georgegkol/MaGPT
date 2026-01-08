@@ -1,0 +1,65 @@
+{
+  "title": "Herrenmakronen",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "geriebene Schokolade",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "geriebene Mandeln oder Nüsse",
+      "quantity": 140,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Mandeln oder Nüsse (Füllung)",
+      "quantity": 140,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker (Füllung)",
+      "quantity": 140,
+      "unit": "g"
+    },
+    {
+      "name": "Eiweiß (Füllung)",
+      "quantity": 2,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Wellenpeise",
+  "ingredients": [
+    {
+      "name": "Milch",
+      "quantity": 0.33,
+      "unit": "l"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Vanille oder Vanillezucker",
+      "quantity": 2,
+      "unit": "Pck."
+    },
+    {
+      "name": "Stärkemehl",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Eischnee",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "name": "Wein oder Most",
+      "quantity": 0.25,
+      "unit": "l"
+    },
+    {
+      "name": "Zitronensaft",
+      "quantity": 1,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Stärkemehl",
+      "quantity": 5,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Creme kochen, einfüllen u. erkalten lassen. Abgeschlagene Creme herstellen u. vorsichtig auf die weiße Creme füllen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Creme",
+    "Cooking"
+  ]
+}

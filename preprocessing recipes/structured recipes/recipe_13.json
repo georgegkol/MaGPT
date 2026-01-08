@@ -1,0 +1,70 @@
+{
+  "title": "Rhabarbertorte",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 0.5,
+      "unit": "Pf"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "Teel"
+    },
+    {
+      "name": "Weckmehl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rhabarber",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 170,
+      "unit": "g"
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Rahm",
+      "quantity": 3,
+      "unit": "Eßl"
+    },
+    {
+      "name": "Stärkemehl",
+      "quantity": 3,
+      "unit": "Eßl"
+    }
+  ],
+  "instructions": [
+    "Teig ausrollen u. in eine Springform gaben, mit Weckmehl bestreuen, dann den fertig geschnittenen Rhabarber daraufgeben. Nun rührt man 170 g Zucker, 3 Eigelb, 3 Eßl. Rahm, 3 Eßl. Stärkemehl zu einem Guß u. läßt ihn über den Rhabarber laufen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking"
+  ]
+}

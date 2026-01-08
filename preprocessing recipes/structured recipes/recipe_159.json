@@ -1,0 +1,117 @@
+{
+  "title": "Wiener Apfelkuchen",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Stärkemehl",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 3,
+      "unit": "Teel."
+    },
+    {
+      "name": "Vanille, Zitronenschale",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Apfelstücke",
+      "quantity": 750,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Wasser",
+      "quantity": 0.125,
+      "unit": "l"
+    },
+    {
+      "name": "Saft von 1 Zitrone",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zitronat",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Orangeat",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Mandeln",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Zimt",
+      "quantity": 1,
+      "unit": "Messersp."
+    },
+    {
+      "name": "Rum",
+      "quantity": 1,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Muskatblüte",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zitronensaft",
+      "quantity": 2,
+      "unit": "Eßl."
+    },
+    {
+      "name": "flüssige geschälte Mandeln",
+      "quantity": 1,
+      "unit": "Eßl."
+    }
+  ],
+  "instructions": [
+    "Teig aufs Blech streichen. Belag: Die Apfelmasse auf den Teig streichen u. bei Mittelhitze goldgelb backen. Guß: Nach dem Backen den Guß auftragen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Apple",
+    "Austrian"
+  ]
+}

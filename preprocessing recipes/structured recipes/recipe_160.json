@@ -1,0 +1,52 @@
+{
+  "title": "Sandkuchenteig (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 0.25,
+      "unit": "Pck."
+    },
+    {
+      "name": "Rum",
+      "quantity": 1,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Zitronenschale",
+      "quantity": 0.5,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Herstellung wie Rührteig, sehr lange rühren."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Rum",
+    "Lemon"
+  ]
+}

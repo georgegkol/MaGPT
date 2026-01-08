@@ -1,0 +1,43 @@
+{
+  "title": "Kornflakes-Plätzchen (Lisa)",
+  "ingredients": [
+    {
+      "name": "Vollmilchschokolade",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Zartbitterschokolade",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Kokosfett",
+      "quantity": 175,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Kornflakes",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 20,
+      "unit": "g"
+    }
+  ],
+  "instructions": null,
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Schokoladenschnitten (Liesel Schmidt)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 6,
+      "unit": null
+    },
+    {
+      "name": "Nüsse",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "geriebene Schokolade",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Kuvertüre",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "halbe Mandel",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Teig auf ein Blech streichen u. auf 180° etwa 20 Min. backen. Mit Kuvertüre bestreichen, in Würfel schneiden u. mit einer halben Mandel belegen."
+  ],
+  "total_time": "20 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Chocolate",
+    "Baking"
+  ]
+}

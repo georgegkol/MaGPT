@@ -1,0 +1,102 @@
+{
+  "title": "Rumtorte / Ananas",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Wasser",
+      "quantity": 4,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Zucker",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Stärkemehl",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Milch",
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillepudding",
+      "quantity": 1,
+      "unit": "Pck."
+    },
+    {
+      "name": "Palmin",
+      "quantity": 1.5,
+      "unit": "Würfel"
+    },
+    {
+      "name": "Eidotter",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Butter",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Staubzucker",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Ananassaft",
+      "quantity": 8,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Rum",
+      "quantity": 8,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Ananas",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kaffee-Biskuit",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Sahne",
+      "quantity": 0.5,
+      "unit": "l"
+    }
+  ],
+  "instructions": [
+    "Butter u. Eigelb schaumig rühren, in den heißen Pudding 150–200 g Puderzucker einrühren u. Palmin dazugeben. Nach Erkalten in die Butter einrühren. Biskuitboden mit 4 Eßl. Ananassaft u. 4 Eßl. Rum beträufeln, dann Boden mit Ananas belegen u. die Creme daraufgeben. Eine Lage Kaffee-Biskuit ebenfalls mit 4 Eßl. Ananassaft u. 4 Eßl. Rum beträufeln, darauf den Rest der Creme geben. Mit Folie abdecken u. über Nacht beschweren. Mit ½ l Sahne bestreichen u. mit Ananas garnieren."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Rum",
+    "Pineapple"
+  ]
+}

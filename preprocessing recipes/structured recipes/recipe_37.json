@@ -1,0 +1,25 @@
+{
+  "title": "Marmeladenherstellung",
+  "ingredients": [
+    {
+      "name": "Fruchtmark",
+      "quantity": 2000,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 1500,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Fruchtmark zum Kochen bringen. Zucker zugeben, wenn die Masse sprudelnd kocht, 10 Min. brennend kochen lassen. Marmeladeprobe machen (1/2 Teel. Marmelade auf einen trockenen Teller geben, bildet sich ein Häutchen u. setzt sich kein Wasser ab, ist die Marmelade gut). In vorbereitete Gläser füllen u. verschließen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Jam",
+    "Fruit",
+    "Preserving"
+  ]
+}

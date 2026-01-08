@@ -1,0 +1,35 @@
+{
+  "title": "Schokoladenfluß",
+  "ingredients": [
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "feiner Zucker",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Palmin",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "Kakao",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "1 Ei mit 50 g feinem Zucker schaumig rühren. 60 g Palmin zerlassen (heiß). Kakao nach Belieben."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Chocolate",
+    "Baking"
+  ]
+}

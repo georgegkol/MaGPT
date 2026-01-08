@@ -1,0 +1,55 @@
+{
+  "title": "Kokosplätzchen",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 1,
+      "unit": "Pf"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 1,
+      "unit": "Pf"
+    },
+    {
+      "name": "ungeschälte Mandeln",
+      "quantity": 0.75,
+      "unit": "Pf"
+    },
+    {
+      "name": "Zimt",
+      "quantity": 4,
+      "unit": "Messerspitzen"
+    },
+    {
+      "name": "Zitronat",
+      "quantity": 4,
+      "unit": "Messerspitzen"
+    },
+    {
+      "name": "Hirschhornsalz",
+      "quantity": 1,
+      "unit": "Messerspitzen"
+    },
+    {
+      "name": "Nelken",
+      "quantity": 2,
+      "unit": "Messerspitzen"
+    }
+  ],
+  "instructions": [
+    "werden gut verarbeitet, dann in die dicke eines Wursts gefüllt, mit einem scharfen Messer in fingerdicke Scheiben schneiden, auf ein gefettetes Blech setzen u. abbacken."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

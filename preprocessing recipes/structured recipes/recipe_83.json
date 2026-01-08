@@ -1,0 +1,32 @@
+{
+  "title": "Spinat",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Fett (Butter)",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Brühe",
+      "quantity": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": null,
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Vegetable",
+    "Side Dish"
+  ]
+}

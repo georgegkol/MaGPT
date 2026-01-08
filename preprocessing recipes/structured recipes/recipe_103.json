@@ -1,0 +1,70 @@
+{
+  "title": "Sahige Kuchen (Eifland)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "Teel"
+    },
+    {
+      "name": "Margarine",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kartoffeln",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Möhren",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Zwiebeln",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Hackfleisch",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Milch",
+      "quantity": 2,
+      "unit": "Eßl"
+    }
+  ],
+  "instructions": [
+    "Mehl, Backpulver, Fett u. 1 Teel. Salz mit 8 Eßl. kaltem Wasser verkneten. Eine halbe Stunde kalt stellen. Geschälte Kartoffeln u. Möhren u. Zwiebeln in Scheiben schneiden. Hackfleisch mit Salz u. Pfeffer würzen. Teig in 8 Portionen teilen, jeweils zu einem Kreis von 20 cm ausrollen. Die Teigstücke mit Möhren u. Zwiebelscheiben belegen, Hackfleisch darauf verteilen, mit Kartoffelscheiben abdecken. Teigränder mit Wasser bestreichen, nach oben ziehen u. zusammendrücken. Eigelb mit Milch verquirlen, Teigstücke damit einpinseln. Auf ein Blech legen u. in den kalten Ofen schieben. Bei 200° etwa 45 Min. backen."
+  ],
+  "total_time": "75 min",
+  "servings": 8,
+  "tags": [
+    "Baking",
+    "Main Course",
+    "Traditional"
+  ]
+}

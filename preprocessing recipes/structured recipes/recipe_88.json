@@ -1,0 +1,45 @@
+{
+  "title": "Schmoräpfel",
+  "ingredients": [
+    {
+      "name": "Äpfel",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Butter",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Weißwein",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rosinen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Vanillesoße",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "4 gleichgroße Äpfel schälen, Kernhaus herausnehmen u. in zerlassener Butter u. Zucker wenden. Auf die gefettete Fettpfanne setzen u. in das Kernhaus in Weißwein getränkte Rosinen füllen. Im Backofen bei Mittelhitze garziehen. Während des Garens immer wieder mit dem restlichen Butterzucker überpinseln, damit eine Karamellmasse entsteht. Auf Tellerchen anrichten u. evtl. Vanillesoße dazu reichen. Backofen vorheizen!"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Fruit"
+  ]
+}

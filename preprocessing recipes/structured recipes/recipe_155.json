@@ -1,0 +1,40 @@
+{
+  "title": "Spanische Nüsse (Marlene)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Nüsse",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 1000,
+      "unit": "g"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Nüsse mit etwas Zucker rösten, kalt werden lassen. Alles zu einem Knetteig verarbeiten u. mit einem Teelöffel kleine Häufchen auf das Blech setzen. Bei 170° backen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Nuts",
+    "Baking"
+  ]
+}

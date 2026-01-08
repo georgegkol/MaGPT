@@ -1,0 +1,47 @@
+{
+  "title": "Käsebrot",
+  "ingredients": [
+    {
+      "name": "Toastbrot",
+      "quantity": 4,
+      "unit": "Scheiben"
+    },
+    {
+      "name": "Gouda",
+      "quantity": 4,
+      "unit": "Scheiben"
+    },
+    {
+      "name": "Schinken",
+      "quantity": 4,
+      "unit": "Scheiben"
+    },
+    {
+      "name": "Kirschen",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Käse (40–50 % Fett)",
+      "quantity": 4,
+      "unit": "Scheiben"
+    },
+    {
+      "name": "Butter",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Die Toastscheiben werden von einer Seite braun gebraten oder getoastet. Nun werden die Scheiben mit Butter bestrichen, mit einer Scheibe Schinken, einer Scheibe Ananas, einer Scheibe Käse u. oder Kirsche belegt. Im Grill oder in der Pfanne mit Deckel brät man das Ganze 3–5 Min. bis der Käse verläuft."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Cheese",
+    "Bread",
+    "Grilled",
+    "Ham",
+    "Cherry"
+  ]
+}

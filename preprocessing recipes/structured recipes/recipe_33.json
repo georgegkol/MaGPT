@@ -1,0 +1,60 @@
+{
+  "title": "RADLERKUCHEN (Gugelhupf)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Hefe",
+      "quantity": 1,
+      "unit": "Würfel"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 120,
+      "unit": "g"
+    },
+    {
+      "name": "Salz",
+      "quantity": 0.5,
+      "unit": "TL"
+    },
+    {
+      "name": "Zitrone",
+      "quantity": 1,
+      "unit": "Schale"
+    },
+    {
+      "name": "Butter",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "lauwarme Milch",
+      "quantity": 125,
+      "unit": "ml"
+    },
+    {
+      "name": "Eier",
+      "quantity": 5,
+      "unit": null
+    },
+    {
+      "name": "Rosinen",
+      "quantity": 175,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Hefeteig herstellen (Butter in Milch schmelzen). Rosinen zuletzt unterheben. Teig gehen lassen, in Form füllen, nochmals gehen lassen. Bei 180–200 °C ca. 40 Minuten backen."
+  ],
+  "total_time": "40 min",
+  "servings": null,
+  "tags": [
+    "Baking",
+    "Cake",
+    "Dessert"
+  ]
+}

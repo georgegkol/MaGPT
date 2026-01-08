@@ -1,0 +1,90 @@
+{
+  "title": "Schweineschulter auf Wildschweinart",
+  "ingredients": [
+    {
+      "name": "Schweineschulter",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Lorbeerblatt",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Wacholderbeeren",
+      "quantity": 6,
+      "unit": null
+    },
+    {
+      "name": "Pfefferkörner",
+      "quantity": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "name": "Nelken",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Zitronenschale",
+      "quantity": 1,
+      "unit": "piece"
+    },
+    {
+      "name": "Öl",
+      "quantity": 1,
+      "unit": "tablespoon"
+    },
+    {
+      "name": "Rotwein",
+      "quantity": 0.25,
+      "unit": "l"
+    },
+    {
+      "name": "Rotweinessig",
+      "quantity": 2,
+      "unit": "tablespoon"
+    },
+    {
+      "name": "Salz",
+      "quantity": 1.5,
+      "unit": "teaspoon"
+    },
+    {
+      "name": "schwarzer Pfeffer",
+      "quantity": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "name": "Butter",
+      "quantity": 1,
+      "unit": "tablespoon"
+    },
+    {
+      "name": "süße Sahne",
+      "quantity": 4,
+      "unit": "tablespoon"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 1,
+      "unit": "tablespoon"
+    }
+  ],
+  "instructions": [
+    "Die Zwiebel reiben, Gewürze fein zerstoßen u. mit Öl mischen. Das Fleisch damit kräftig einreiben u. eine Stunde ruhen lassen. Dann 4 Tage marinieren!"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Pork",
+    "Marinated",
+    "German Cuisine"
+  ]
+}

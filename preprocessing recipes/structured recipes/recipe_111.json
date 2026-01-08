@@ -1,0 +1,45 @@
+{
+  "title": "Kieler Brötchen",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 375,
+      "unit": "g"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Marmelade",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Man vermengt alle Zutaten zu einem glatten Teig, rollt ihn dünn aus u. sticht ihn mit einer runden Form aus, bäckt sie gelb u. setzt nach dem Backen je zwei Küchlein mit Marmelade gefüllt aufeinander."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Baking",
+    "Dessert",
+    "Cookies"
+  ]
+}

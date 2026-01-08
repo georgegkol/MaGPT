@@ -1,0 +1,40 @@
+{
+  "title": "Plätzchen (Rezept v. Radio)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Apfelessig",
+      "quantity": 2,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Prise"
+    },
+    {
+      "name": "Butter",
+      "quantity": 0.5,
+      "unit": "Pf."
+    }
+  ],
+  "instructions": [
+    "Teig ½ cm dick ausrollen, ganz mit Ei bestreichen, mit Mandeln oder Hagelzucker bestreuen. Nach dem Backen in Stücke schneiden."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

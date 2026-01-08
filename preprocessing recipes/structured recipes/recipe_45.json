@@ -1,0 +1,51 @@
+{
+  "title": "ZWETSCHGENKUCHEN (Benito)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 210,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 140,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Prise"
+    },
+    {
+      "name": "Zwetschgen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Mehl, Butter, Zucker, Ei und eine Prise Salz kneten. In Form mit Butter. Rand dünn hochziehen. Mit Gabel einstechen. Zwetschgen entsteinen, einritzen, Zucker drüber. Bis Rand dunkelbraun. Vorsicht! → Boden leicht mattig."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Fruit"
+  ]
+}

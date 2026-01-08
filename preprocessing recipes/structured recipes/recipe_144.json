@@ -1,0 +1,50 @@
+{
+  "title": "Rührteig (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Margarine",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Geschmackszutaten (Vanille od. Zitrone)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "Pck."
+    },
+    {
+      "name": "Milch",
+      "quantity": 0.125,
+      "unit": "l"
+    }
+  ],
+  "instructions": [
+    "Margarine etwas warm stellen, schaumig rühren, nach und nach Zucker u. die ganzen Eier abwechselnd unterrühren, bis die Masse schön schaumig ist, dann das mit dem Backpulver gesiebte Mehl langsam unterrühren, bis der Teig schwer reißend vom Löffel fällt (Milch nach Bedarf zugeben). Verwendung zu: Napfkuchen, Blech- kuchen, Kleingebäck, Auflauf."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Baking",
+    "Cake",
+    "Dessert"
+  ]
+}

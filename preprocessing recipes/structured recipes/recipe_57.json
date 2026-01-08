@@ -1,0 +1,75 @@
+{
+  "title": "Flammkuchen (gibt 2 viereckige Bleche)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Hefe",
+      "quantity": 1,
+      "unit": "Würfel"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 1,
+      "unit": "Eßl."
+    },
+    {
+      "name": "lauwarmes Wasser",
+      "quantity": 0.25,
+      "unit": "l"
+    },
+    {
+      "name": "Salz",
+      "quantity": 0.5,
+      "unit": "Teel."
+    },
+    {
+      "name": "Öl",
+      "quantity": 2,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Schmand",
+      "quantity": 2,
+      "unit": "Becher"
+    },
+    {
+      "name": "Pfeffer Knoblauch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kochschinken",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Schinkenwürfel",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Mozzarella",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Zwiebeln",
+      "quantity": 3,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Hefeteig herstellen und so lange kneten bis er nicht mehr klebt. ½ Stunde gehen lassen, in 2 Portionen teilen und auf ein Backblech dünn ausrollen. Schmand, Schinken, Zwiebeln und Gewürze verteilen und auf dem Teig verteilen. Mit Käse bestreuen und etwa 20 Minuten auf 180° backen."
+  ],
+  "total_time": null,
+  "servings": 2,
+  "tags": [
+    "Baking",
+    "Flammkuchen",
+    "German Cuisine"
+  ]
+}

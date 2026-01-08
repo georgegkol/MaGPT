@@ -1,0 +1,32 @@
+{
+  "title": "Suppengemüse",
+  "ingredients": [
+    {
+      "name": "Lauch",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Sellerie",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Möhre",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Petersilienwurzel",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": null,
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Vegetables",
+    "Soup"
+  ]
+}

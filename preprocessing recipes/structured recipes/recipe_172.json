@@ -1,0 +1,55 @@
+{
+  "title": "Mandelbrot",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 0.25,
+      "unit": "Pf."
+    },
+    {
+      "name": "Zucker",
+      "quantity": 0.5,
+      "unit": "Pf."
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Zimt",
+      "quantity": 2,
+      "unit": "Teel."
+    },
+    {
+      "name": "geriebene Schokolade",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "geschälte Mandeln",
+      "quantity": 0.5,
+      "unit": "Pf."
+    },
+    {
+      "name": "Hirschhornsalz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 0.75,
+      "unit": "Pf."
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Baking",
+    "Dessert",
+    "Mandelbrot"
+  ]
+}

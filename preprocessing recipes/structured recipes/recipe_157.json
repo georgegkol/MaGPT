@@ -1,0 +1,91 @@
+{
+  "title": "Mandarinentorte (Wiener Biskuit)",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 3,
+      "unit": "ganz"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Zitronenschale",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Pr."
+    },
+    {
+      "name": "Mehl",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1.5,
+      "unit": "Teel."
+    },
+    {
+      "name": "Butter",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Mandarinensaft",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zitronensaft",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "flüssige Butter",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Mandarinenscheiben",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schlagsahne",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pistazien",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Schluß die zerlassene, abgekühlte Butter zugeben. Den Teig in eine Springform füllen, noch in die heiße Torte den Mandarinensaft (aus einer Dose) mit Zitronensaft u. 125 g Puderzucker vermischen eintropfen. Zuvor mit einem Hölzchen dicht Löcher in die Torte stechen. Etwa 2 Eßl. der Flüssigkeit zurücklassen u. mit 100 g Puderzucker u. mit ca. 20 g flüssiger Butter zur Glasur (glänzend streichen) zerrühren. Die Torte nach dem Abkühlen damit bestreichen. Die Oberseite der Torte mit 1–2 Reihen Mandarinenscheiben schuppenartig belegen. Die innere nicht belegte Fläche turmartig mit Schlagsahne bespritzen u. mit Pistazien bestreuen. Torte 1–2 Stunden sehr kalt stellen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Austrian"
+  ]
+}

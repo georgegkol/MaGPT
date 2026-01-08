@@ -1,0 +1,57 @@
+{
+  "title": "Bären Tatzen (Fr. Seifert)",
+  "ingredients": [
+    {
+      "name": "Zartbitterschokolade",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "gemahlene Mandeln",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zimt",
+      "quantity": 0.5,
+      "unit": "Teel."
+    },
+    {
+      "name": "Nelken u. Kardamon",
+      "quantity": 1,
+      "unit": "Pr."
+    },
+    {
+      "name": "Kakao",
+      "quantity": 2,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Schale v. 1 Zitrone",
+      "quantity": 1,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Mit Zucker in die Form drücken u. bei 180° abbacken!"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Chocolate",
+    "Almonds",
+    "Spices"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Obstsuppe (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Wasser",
+      "quantity": 1,
+      "unit": "l"
+    },
+    {
+      "name": "frisches Obst oder getrocknetes",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Grieß oder Sago",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Stärkemehl",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Das Obst im kochenden Wasser gar machen, Suppe binden u. würzen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Fruit",
+    "Cooking"
+  ]
+}

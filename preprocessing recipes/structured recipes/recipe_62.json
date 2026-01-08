@@ -1,0 +1,35 @@
+{
+  "title": "Kotelette",
+  "ingredients": [
+    {
+      "name": "Kotelette",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Salz u. Pfeffer gemischt",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Fett",
+      "quantity": 40,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Panade the Kotelette with a mix of salt and pepper. Beat an egg and coat the Kotelette with it. Heat 40g of fat in a pan and cook the Kotelette for 20-25 minutes."
+  ],
+  "total_time": "20-25 min",
+  "servings": 4,
+  "tags": [
+    "Main Course",
+    "Meat",
+    "Cooking"
+  ]
+}

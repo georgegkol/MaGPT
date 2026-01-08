@@ -8,13 +8,13 @@ load_dotenv()
 client = OpenAI()
 
 BASE_DIR = Path(__file__).resolve().parent
-TEXT_DIR = BASE_DIR / "text_extraction"       # folder with your txt pages
-OUTPUT_DIR = BASE_DIR / "segmented_recipes"   # folder for per-recipe JSON
+TEXT_DIR = BASE_DIR / "text extraction"
+OUTPUT_DIR = BASE_DIR / "segmented recipes"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 # LLM prompt for page segmentation
 SEGMENT_PROMPT = """
-You are reading a handwritten or OCR-extracted cookbook page by page.
+You are reading cookbook OCR-extracted pages.
 
 Current recipe title (may be null): {current_title}
 Next page text:
@@ -25,6 +25,8 @@ Next page text:
 Decide whether this page:
 1) continues the current recipe, or
 2) starts one or more new recipes.
+
+Completely ignore the segmentation ===PAGE X=== markers, pretend they dont exist.
 
 Return JSON actions ONLY, in this format:
 [
@@ -65,6 +67,7 @@ def segment_recipes_from_pages():
     recipe_counter = 0
 
     for page_file in pages:
+        print( f"{recipe_counter} processed so far")
         with open(page_file, "r", encoding="utf-8") as f:
             page_text = f.read()
 
@@ -97,7 +100,7 @@ def segment_recipes_from_pages():
                     }
             else:
                 raise ValueError(f"Unknown action type: {action['type']}")
-
+            
     # Save the last recipe
     if current_recipe:
         recipe_counter += 1

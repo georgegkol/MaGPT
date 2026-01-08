@@ -1,0 +1,50 @@
+{
+  "title": "Rindfleischsuppe",
+  "ingredients": [
+    {
+      "name": "Rindfleisch",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Suppengemüse",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Lauch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Sellerie",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Möhre",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Suppengrün",
+      "quantity": 1,
+      "unit": "Bund"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Fleisch kalt aufsetzen, ohne Salz, 2–3 Std. langsam kochen. Suppengemüse 1 Std. mitkochen (vorher bündeln). Brühe durch ein Sieb geben."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Beef",
+    "Vegetables"
+  ]
+}

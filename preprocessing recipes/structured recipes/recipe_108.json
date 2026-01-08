@@ -1,0 +1,61 @@
+{
+  "title": "Jägertorte",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 5,
+      "unit": null
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 6,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Kartoffelmehl",
+      "quantity": 2,
+      "unit": "tablespoons"
+    },
+    {
+      "name": "geriebene Haselnüsse",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Johannisbeermarmelade",
+      "quantity": 6,
+      "unit": "tablespoons"
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 6,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "geschälte, geriebene Mandeln",
+      "quantity": 250,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Zutaten z. Boden: 5 ganze Eier 6 Eigelb ½ Pfd. Zucker 2 Eßl. Kartoffelmehl ½ Pfd. geriebene Haselnüsse Füllung: 6 Eßl. Johannisbeermarmelade Zum Guß: 6 Eiweiß ½ Pfd. Zucker ½ Pfd. geschälte, geriebene Mandeln Backzeit: ¾ Stunde bei 195°–175°"
+  ],
+  "total_time": "45 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Nuts"
+  ]
+}

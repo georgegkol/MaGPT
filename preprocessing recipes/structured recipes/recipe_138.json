@@ -1,0 +1,55 @@
+{
+  "title": "Hände (Bärlmann)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "gemahlene Mandeln",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Zitronat",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zimt",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schokolade (gerieben)",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 1000,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

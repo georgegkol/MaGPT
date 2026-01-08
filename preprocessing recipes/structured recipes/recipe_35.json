@@ -1,0 +1,76 @@
+{
+  "title": "Rhabarberkuchen (Heidrun)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 175,
+      "unit": "g"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 2,
+      "unit": "Teel."
+    },
+    {
+      "name": "Mehl",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Mondamin",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "name": "Rum-Aroma",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Rhabarber",
+      "quantity": 5,
+      "unit": "große Stangen"
+    }
+  ],
+  "instructions": [
+    "3 Eiweiß zu Schnee schlagen und 150 g Zucker einrieseln lassen. 10 Min oder 15 Min vor Ende der Backzeit auf 100° schalten und den Eischnee über den Kuchen geben. Zum Schluss nochmal Heiß hochschalten bis der Baiser leicht braun wird."
+  ],
+  "total_time": "3/4 Std.",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Rhubarb"
+  ]
+}

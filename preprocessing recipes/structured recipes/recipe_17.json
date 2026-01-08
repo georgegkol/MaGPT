@@ -1,0 +1,90 @@
+{
+  "title": "Bananenschnitten",
+  "ingredients": [
+    {
+      "name": "Eiweiß",
+      "quantity": 5,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 5,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 3,
+      "unit": "Teel."
+    },
+    {
+      "name": "Butter",
+      "quantity": 0.5,
+      "unit": "Pf."
+    },
+    {
+      "name": "Sahnepudding",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Bananenlikör",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schokoglasur",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Zitrone",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 4,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Milch",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "Butter",
+      "quantity": 0.5,
+      "unit": "Pf."
+    },
+    {
+      "name": "Bananenlikör",
+      "quantity": 1.5,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Bananen",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Biskuitrolle backen, 200°, 15 Min. Füllung: 1 Sahnepudding kochen mit 4 gehäuften Eßl. Zucker u. etwas weniger Milch als ½ l. ½ Pf. Butter 1–1½ Eßl. Bananenlikör. Bananen vierteln, mit Zitrone bestreichen u. mit Schokoglasur begießen."
+  ],
+  "total_time": "15 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Fruit"
+  ]
+}

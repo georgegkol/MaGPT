@@ -1,0 +1,70 @@
+{
+  "title": "Anwendung",
+  "ingredients": [
+    {
+      "name": "Erdbeer",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Ananas",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zitronen",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Apfelsahne",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Wein",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rum",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mokka",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schokolade",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mandel",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Karamell",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zitronencreme",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "The recipe does not provide specific instructions on how to combine and cook the ingredients."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Fruit",
+    "Dessert",
+    "Beverage"
+  ]
+}

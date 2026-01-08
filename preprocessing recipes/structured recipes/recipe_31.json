@@ -1,0 +1,61 @@
+{
+  "title": "GRENOBLER NUSSTALER",
+  "ingredients": [
+    {
+      "name": "Mondamin",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": "Päckchen"
+    },
+    {
+      "name": "Butter",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Nougatmasse",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Glasur",
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Teig verkneten, kalt stellen. 1/2 cm dick ausrollen, Ringe ausstechen. Bei 180–200 °C backen. Je 2 Ringe mit Nougat füllen, zusammensetzen, mit Glasur überziehen und mit Mandeln/Nüssen bestreuen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies",
+    "Nougat"
+  ]
+}

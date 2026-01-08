@@ -1,0 +1,65 @@
+{
+  "title": "APFELORANGENSCHNITTEN (von Kappeln)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "gestr. TL"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 75,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": "Päckchen"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Butter",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "gemahlene Mandeln",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Saft von Orangen",
+      "quantity": 1,
+      "unit": "–2"
+    },
+    {
+      "name": "Abgeriebene Schale von Orange",
+      "quantity": 1,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Knetteig herstellen, halbieren, ausrollen. Mandeln, Zucker und Orangensaft verrühren, aufstreichen. Zweite Teigplatte auflegen, andrücken, einstechen. Puderzucker mit Orangensaft glattrühren, aufstreichen. In Streifen schneiden."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Fruit"
+  ]
+}

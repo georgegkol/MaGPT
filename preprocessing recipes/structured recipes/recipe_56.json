@@ -1,0 +1,65 @@
+{
+  "title": "Beize f. Sauerbraten",
+  "ingredients": [
+    {
+      "name": "Rotwein",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "Wasser",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "Essig",
+      "quantity": 2,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Nelke",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Lorbeerblatt",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Möhre",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Sellerie",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfefferkörner",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "2–3 Tage einlegen"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Marinade",
+    "Meat",
+    "Preparation"
+  ]
+}

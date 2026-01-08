@@ -1,0 +1,50 @@
+{
+  "title": "Lebkuchen (Fr. Epple)",
+  "ingredients": [
+    {
+      "name": "Eiweiß",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "geschälte Mandeln",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Saft 1 Zitrone",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Zitronensaft",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Staubzucker",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Fladenmandeln",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Glasur: Zitronensaft u. Puderzucker dicke Glasur machen. Mit Staubzucker in kalte blech füllen. Fladenmandeln auflegen. Glasur auf die heißen Plätzchen streichen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

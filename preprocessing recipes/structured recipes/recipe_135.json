@@ -1,0 +1,35 @@
+{
+  "title": "Schwarz-weiß Gebäck (Mürbeteig)",
+  "ingredients": [
+    {
+      "name": "Mürbeteig nach Grundrezept",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kakao",
+      "quantity": 1,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Zucker",
+      "quantity": 1,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Mehl",
+      "quantity": 1,
+      "unit": "Eßl."
+    }
+  ],
+  "instructions": [
+    "Mürbeteig nach Grundrezept herstellen, die Hälfte mit 1 Eßl. Kakao, 1 Eßl. Zucker u. 1 Eßl. Mehl herstellen. Teig gut ruhen lassen, formen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

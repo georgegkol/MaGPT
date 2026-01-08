@@ -1,0 +1,61 @@
+{
+  "title": "Birnentorte",
+  "ingredients": [
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "Nüsse",
+      "quantity": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "Messerspitze"
+    },
+    {
+      "name": "Birnen",
+      "quantity": 1,
+      "unit": "Dose"
+    },
+    {
+      "name": "Joghurt",
+      "quantity": 3,
+      "unit": "Becher"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Sahne",
+      "quantity": 2,
+      "unit": "Becher"
+    },
+    {
+      "name": "Gelatine",
+      "quantity": 8,
+      "unit": "Blatt"
+    }
+  ],
+  "instructions": [
+    "45 Min auf 175° backen. Belag: über die Birnen geben und kalt stellen. Mit Sahne verzieren."
+  ],
+  "total_time": "45 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Fruit"
+  ]
+}

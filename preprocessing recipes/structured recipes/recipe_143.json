@@ -1,0 +1,40 @@
+{
+  "title": "Spitzbuben",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 420,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 210,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "kl. Eier",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Haselnüsse (gerieben)",
+      "quantity": 125,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Teig kalt stellen – messerrückendick ausrollen, kleine runde Plätzchen ausstechen, kalt stellen, bei Mittelhitze backen, noch heiß in Vanillezucker wälzen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Nussnige (Haddeleim)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Butter",
+      "quantity": 0.5,
+      "unit": "kg"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 0.25,
+      "unit": "kg"
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 0.75,
+      "unit": "kg"
+    },
+    {
+      "name": "gemahlene Mandeln oder Nüsse",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "1 kg Mehl, ½ kg Butter, ¼ kg Zucker werden zu einem Teig verarbeitet, ausgerollt, Ringe ausgestochen und über Nacht kalt gestellt. Wenn die Ringe abgekühlt und getrocknet sind, werden sie in 4 Eiweiß mit ¾ kg Puderzucker sehr gut geschlagen, eingetaucht und dann in gemahlenen Mandeln oder Nüssen gewälzt."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Cookies"
+  ]
+}

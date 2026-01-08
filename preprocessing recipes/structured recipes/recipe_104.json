@@ -1,0 +1,56 @@
+{
+  "title": "Gefülltes Brot (Brigitte)",
+  "ingredients": [
+    {
+      "name": "Bauernbrot",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Öl",
+      "quantity": 6,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Zwiebeln",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Paprikaschoten",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Räucherspeck",
+      "quantity": 4,
+      "unit": "Scheiben"
+    },
+    {
+      "name": "gemischtes Hackfleisch",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Gewürze",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Käsescheiben",
+      "quantity": 125,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Vom Brot einen Deckel abschneiden, Brot aushöhlen. Krume zerbröseln u. in Öl rösten. Zwiebeln u. Paprika in Streifen schneiden, Speck ausbraten, dann aus der Pfanne nehmen. Zwiebeln u. Paprika im Speckfett rösten, Hackfleisch u. Gewürze hinzufügen, 5 Min. mitbraten. Ketchup unterrühren, Brotbrösel untermischen. Masse ins Brot füllen, mit Speck u. Käse belegen u. bei 180° ca. 15 Min. überbacken."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Bread",
+    "Stuffed",
+    "Baking",
+    "German Cuisine"
+  ]
+}

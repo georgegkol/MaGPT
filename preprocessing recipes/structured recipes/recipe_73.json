@@ -1,0 +1,91 @@
+{
+  "title": "Salate aus ungekochtem Gemüse u. Salat",
+  "ingredients": [
+    {
+      "name": "Kopfsalat",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Weißkohl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Endivien",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Rotkohl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Gurken",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Wirsing",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Feldsalat",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Möhren",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Tomaten",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Spinat",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Sauerkraut",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Lauch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Marinade",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Sahne",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mayonnaise",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Zubereitung: Alle Blattsalate kurz vor dem Anrichten waschen. Gemüse oder Salat gut waschen, zerkleinern (Kohl stampfen) anrichten u. stets zu- gedeckt stehen lassen. Tunke: Marinade mit oder ohne Sahne oder Mayonnaise."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Salad",
+    "Vegetables",
+    "Raw",
+    "Healthy"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Waffelplätzchen",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 0.5,
+      "unit": "Pf"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 0.5,
+      "unit": "Pf"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "Messerspitze"
+    }
+  ],
+  "instructions": [
+    "Eigelb mit dem Zucker rühren u. Eiweiß zu Schnee schlagen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

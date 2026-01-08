@@ -1,0 +1,70 @@
+{
+  "title": "Hefeteig – mittelschwer",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Hefe",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 1,
+      "unit": "Teel."
+    },
+    {
+      "name": "warmes Wasser",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Fett",
+      "quantity": 90,
+      "unit": "g"
+    },
+    {
+      "name": "Milch",
+      "quantity": 0.25,
+      "unit": "l"
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Pr."
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Wasser",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Milch oder Wasser",
+      "quantity": 0.25,
+      "unit": "l"
+    }
+  ],
+  "instructions": [
+    "Das Mehl in eine Schüssel sieben, Vertiefung machen, die Hefe hineinbröckeln, mit dem Wasser u. 1 Teel. Zucker glatt rühren. Den Teig gehen lassen bis er nochmals so groß ist. Die andere Flüssigkeit unterarbeiten (Fett u. Zucker zugeben). Den Teig schlagen bis er Blasen wirft u. sich vom Löffel u. Schüssel löst. Einfacher Hefeteig sofort verarbeiten. Mittelschweren gehen lassen u. dann erst verarbeiten."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Bread",
+    "Baking",
+    "Dough"
+  ]
+}

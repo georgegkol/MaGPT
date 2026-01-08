@@ -1,0 +1,40 @@
+{
+  "title": "Feine abgesehlagene Creme (Grundrezept)",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 2.5,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 90,
+      "unit": "g"
+    },
+    {
+      "name": "Mondamin oder dgl.",
+      "quantity": 35,
+      "unit": "g"
+    },
+    {
+      "name": "Geschmacksstoffe",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Flüssigkeit",
+      "quantity": 0.5,
+      "unit": "l"
+    }
+  ],
+  "instructions": [
+    "Eigelb u. Zucker schaumig rühren, Bindemittel u. Flüssigkeit zugeben. auf Stufe 2 abschlagen u. zuletzt den steifen Eischnee unterheben."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Creme",
+    "Baking"
+  ]
+}

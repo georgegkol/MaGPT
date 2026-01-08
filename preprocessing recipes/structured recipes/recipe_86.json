@@ -1,0 +1,23 @@
+{
+  "title": "Obstsalat",
+  "ingredients": [
+    {
+      "name": "Obst nach Jahreszeit (Birnen, Äpfel, Beeren)",
+      "quantity": 750,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": null,
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Fruit",
+    "Salad",
+    "Seasonal"
+  ]
+}

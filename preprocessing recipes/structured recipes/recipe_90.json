@@ -1,0 +1,40 @@
+{
+  "title": "Dänische Apfelspeise",
+  "ingredients": [
+    {
+      "name": "Äpfeln",
+      "quantity": 750,
+      "unit": "g"
+    },
+    {
+      "name": "Weckmehl",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Rahm",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "Zucker",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Apfelmus von 750 g Äpfeln herstellen. 125 g Weckmehl in ca. 40 g Butter anrösten. Von ½ l Rahm Schlagsahne herstellen. Apfelmus, Weckmehl u. Sahne in eine Schüssel einschichten. Kalt stellen. Zucker nach Geschmack."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Apple",
+    "Danish"
+  ]
+}

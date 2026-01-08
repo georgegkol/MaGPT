@@ -5,18 +5,21 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 
-input_path = BASE_DIR / "text extraction" / "pages122-124_raw_description.txt"
+INPUT_DIR = BASE_DIR / "segmented recipes"
+OUTPUT_DIR = BASE_DIR / "structured recipes"
+OUTPUT_DIR.mkdir(exist_ok=True)
 
 load_dotenv()
-
 client = OpenAI()
 
+
+# PROMPT
 EXAMPLE_PROMPT = """
-Convert the following text containing recipes into a structured JSON with the keys: title, ingredients, instructions, total_time, servings, tags.
-- Detect and split multiple recipes, then structure each one separately.
+Convert the following text containing a recipe into a structured JSON with the keys: title, ingredients, instructions, total_time, servings, tags.
+- Put the instructions into one text block (list with one string) without ever translating from German and just leave as null if there are no instructions.
 - Standardise units to g, ml, teaspoons etc.
-- For instructions, split into a list of steps.
-- Come up with the appropriate tags based on the recipe content.
+- Include total times and servings if directly mentioned in the text, otherwise use null.
+- Come up with the appropriate tags based on the recipe content (avoid phrases with the word German).
 
 For ingredients, output a list of objects with (if any information is missing, use null for that field):
 - name (ingredient name only)
@@ -31,9 +34,7 @@ Example structured JSON:
     {"name": "milk", "quantity": 100, "unit": "ml"}
   ],
   "instructions": [
-    "Mix flour and sugar in a bowl.",
-    "Add milk and stir until smooth.",
-    "Bake at 180°C for 25 minutes."
+    "Mix flour and sugar in a bowl. Add milk and stir until smooth. Bake at 180°C for 25 minutes."
   ],
   "total_time": "35 min",
   "servings": 4,
@@ -43,36 +44,49 @@ Example structured JSON:
 Return ONLY valid JSON. Do not include explanations or markdown.
 """
 
-def structure_recipe_with_llm(raw_recipe_text):
-    """
-    Takes raw recipe text and returns structured JSON with standardized fields.
-    """
-    # Combine the example schema with the actual recipe
-    prompt = f"{EXAMPLE_PROMPT}\n\nRaw recipe:\n---\n{raw_recipe_text}\n---\nStructured JSON:"
-    
+
+# FUNCTION
+def structure_recipe_with_llm(recipe_title, raw_recipe_text):
+    prompt = f"{EXAMPLE_PROMPT}\n\nRecipe title: {recipe_title}\n\nRaw recipe:\n---\n{raw_recipe_text}\n---\nStructured JSON:"
+
     response = client.chat.completions.create(
         model="gpt-4",
         messages=[{"role": "user", "content": prompt}],
         temperature=0
     )
-    
-    # Extract the assistant's message
+
     json_text = response.choices[0].message.content
-    
-    # Parse JSON safely
+
     try:
-        recipe_json = json.loads(json_text)
+        return json.loads(json_text)
     except json.JSONDecodeError:
-        # If LLM output has minor formatting issues, we could clean it or return raw
-        recipe_json = {"error": "Failed to parse JSON", "raw_output": json_text}
-    
-    return recipe_json
+        return {
+            "error": "Failed to parse JSON",
+            "raw_output": json_text
+        }
 
 
-# Example usage
+# MAIN
 if __name__ == "__main__":
-    with open(input_path, "r", encoding="utf-8") as f:
-        raw_text = f.read()
-    
-    structured_recipe = structure_recipe_with_llm(raw_text)
-    print(json.dumps(structured_recipe, indent=2))
+
+    recipe_files = sorted(INPUT_DIR.glob("*.json"))
+
+    for recipe_file in recipe_files:
+        output_file = OUTPUT_DIR / recipe_file.name
+
+        # Skip if already processed (VERY IMPORTANT for cost safety)
+        if output_file.exists():
+            continue
+
+        with open(recipe_file, "r", encoding="utf-8") as f:
+            raw_recipe = json.load(f)
+
+        structured_recipe = structure_recipe_with_llm(
+            raw_recipe["title"],
+            raw_recipe["raw_text"]
+        )
+
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(structured_recipe, f, indent=2, ensure_ascii=False)
+
+        print(f"Saved: {output_file.name}")

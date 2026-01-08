@@ -1,0 +1,105 @@
+{
+  "title": "Stadelberger-Baiser-Torte",
+  "ingredients": [
+    {
+      "name": "Eiweiß",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "kaltes Wasser",
+      "quantity": 2,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Vanille",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Speisestärke",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "gestr. Teel."
+    },
+    {
+      "name": "Butter",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 65,
+      "unit": "g"
+    },
+    {
+      "name": "Vanille",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Mehl",
+      "quantity": 65,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 0.5,
+      "unit": "Teel."
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "gehobelte Mandeln",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Essig",
+      "quantity": 1,
+      "unit": "Eßl."
+    }
+  ],
+  "instructions": [
+    "Fett, Zucker, Vanille u. Eigelb schaumig rühren. Mehl u. Backpulver mischen u. unterrühren. Teig in eine gefettete Springform g eben. Eiweiß u. Zucker sehr schaumig schlagen u. auf dem Teig verteilen. Mit gehobelten Mandeln bestreuen. 1 Stunde bei 140° backen."
+  ],
+  "total_time": "1 Stunde",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking"
+  ]
+}

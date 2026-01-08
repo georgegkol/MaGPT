@@ -1,0 +1,35 @@
+{
+  "title": "Quarkplätzchen",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Sternanis",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Sehr gut rühren, dann kommt ½ Pf. Mehl darin u. etwas Sternanis. Man gibt den Teig mit dem Löffel aufs Blech u. läßt sie 1–2 Tage trocknen u. dann abbacken."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

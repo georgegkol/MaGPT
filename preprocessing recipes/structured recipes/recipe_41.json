@@ -1,0 +1,45 @@
+{
+  "title": "Pfannkuchen (2 Personen)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Milch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Eier",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "Soda",
+      "quantity": null,
+      "unit": "Schuß"
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Prise"
+    },
+    {
+      "name": "Butter",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Mehl mit Milch dickflüssig ohne Klümpchen. 2–3 Eier rein. Schuß Soda. Prise Salz (→ flüssiger Teig). Butter in Pfanne mittlere Hitze."
+  ],
+  "total_time": null,
+  "servings": 2,
+  "tags": [
+    "Pancakes",
+    "Breakfast",
+    "Easy"
+  ]
+}

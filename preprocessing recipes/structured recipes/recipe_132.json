@@ -1,0 +1,50 @@
+{
+  "title": "Feine Anisplätzchen (Mürbeteig)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "gem. Nüsse",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "gestr. Teel."
+    },
+    {
+      "name": "Zucker",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Margarine",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Anisstückchen",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Runde Plätzchen ausstechen mit Eiweiß bestreichen u. mit Anisstückchen belegen, hell abbacken."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

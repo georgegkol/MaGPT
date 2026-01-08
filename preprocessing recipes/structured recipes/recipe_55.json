@@ -1,0 +1,31 @@
+{
+  "title": "Apfel-Rohkost-Salat",
+  "ingredients": [
+    {
+      "name": "Lauch",
+      "quantity": 1,
+      "unit": "Stange"
+    },
+    {
+      "name": "Apfel",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Joghurt- oder Sahnetunke",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Schneiden Sie den Apfel in feine Scheiben und richten Sie ihn in einer Joghurt- oder Sahnetunke an."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Salad",
+    "Raw",
+    "Apple",
+    "Vegetarian"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Schokoladen-Plätzchen (Irma)",
+  "ingredients": [
+    {
+      "name": "geriebene Schokolade",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "geschnittene Mandeln oder Nüsse",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "geriebene Mandeln oder Nüsse",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Zitronat",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Wasser",
+      "quantity": 6,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Öl",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Rum-Aroma",
+      "quantity": 1,
+      "unit": "Fl."
+    },
+    {
+      "name": "Wasser",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Alles zusammen in eine Schüssel gaben. Dann kocht man 250 g Zucker mit 6 Eßl. Wasser, man gießt das kochende Zuckerwasser über die Masse, mischt gut durch u. gibt es auf ein mit Öl bestrichenes Blech. ½ kg Puderzucker, 1 Fl. Rum-Aroma u. etwas Wasser glatt rühren u. darüber streichen. Nach dem Erkalten in kleine Stücke schneiden."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking",
+    "Chocolate"
+  ]
+}

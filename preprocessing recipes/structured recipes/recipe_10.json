@@ -1,0 +1,50 @@
+{
+  "title": "Orangenplätzchen (Liesel Schmidt)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Orange (Schale)",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Marzipan",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Mondamin",
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Butter u. Puderzucker schaumig rühren, Eigelb unterrühren, Orangenabrieb, Marzipan, Mehl u. Mondamin einarbeiten. Plätzchen mit dem Spritzbeutel aufs Blech spritzen. Nach dem Erkalten mit erhitzter Orangenmarmelade bestreichen u. je 2 Plätzchen zusammendrücken. Evtl. mit Schokoglasur verzieren. (Hinweis: Orangenmarmelade schmeckt nicht so gut.)"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cookies",
+    "Baking"
+  ]
+}

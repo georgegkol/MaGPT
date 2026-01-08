@@ -1,0 +1,55 @@
+{
+  "title": "Pickelsteiner",
+  "ingredients": [
+    {
+      "name": "Fleisch oder durchwachsener Speck oder Schmalz",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": "mittelgroße"
+    },
+    {
+      "name": "Gemüse",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Sellerie, Möhren, Lauch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kartoffeln",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Brühe",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Petersilie",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "siehe Grundrezept Gemüseeintopf."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Vegetables",
+    "Meat"
+  ]
+}

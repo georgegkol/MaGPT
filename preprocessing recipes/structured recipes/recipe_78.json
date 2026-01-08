@@ -1,0 +1,46 @@
+{
+  "title": "Weißkohleintopf",
+  "ingredients": [
+    {
+      "name": "Bauchspeck",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Zwiebel",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kartoffeln",
+      "quantity": 750,
+      "unit": "g"
+    },
+    {
+      "name": "Flüssigkeit",
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Kümmel",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Garzeit 1½ Stunden. Anwendung: Weißkohleintopf, Irish Stew, Bohnen, Möhren, Lauch, Pickelsheimer Sauerkraut, Braunkohl, Bohnensuppe, feine Bohnen mit Hammelfleisch."
+  ],
+  "total_time": "1.5 hours",
+  "servings": null,
+  "tags": [
+    "Soup",
+    "Stew",
+    "Pork",
+    "Potatoes"
+  ]
+}

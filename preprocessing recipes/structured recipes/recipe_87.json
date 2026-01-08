@@ -1,0 +1,40 @@
+{
+  "title": "Caramelcreme",
+  "ingredients": [
+    {
+      "name": "Zucker",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "quantity": 1,
+      "unit": "Stck."
+    },
+    {
+      "name": "Milch",
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "Bindemittel mit Milch angerührt",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 2,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Caramel",
+    "Cream"
+  ]
+}

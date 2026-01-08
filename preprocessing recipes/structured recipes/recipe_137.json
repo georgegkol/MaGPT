@@ -1,0 +1,50 @@
+{
+  "title": "Knepfchen (Steinbeheim)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Butter oder Margarine",
+      "quantity": 0.5,
+      "unit": "kg"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 0.5,
+      "unit": "kg"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Salz oder Backpulver",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Milch",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Nuss",
+      "quantity": 0.5,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Den Teig ausrollen in Streifen schneiden, mit Milch bestreichen u. mit Zucker bestreuen u. ein halbe Nuss darauf legen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Traditional"
+  ]
+}

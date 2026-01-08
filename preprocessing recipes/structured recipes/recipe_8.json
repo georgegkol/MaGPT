@@ -1,0 +1,67 @@
+{
+  "title": "Zimtkuchen (Renate)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": "Pck."
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Backöl Zitrone",
+      "quantity": 4,
+      "unit": "Tropfen"
+    },
+    {
+      "name": "gemahlener Zimt",
+      "quantity": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Weizenmehl",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 3,
+      "unit": "Teel."
+    },
+    {
+      "name": "gemahlene Mandeln",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Rosinen",
+      "quantity": 250,
+      "unit": "g"
+    }
+  ],
+  "instructions": [
+    "Bei 165–175° etwa 70–80 Min. backen."
+  ],
+  "total_time": "70-80 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Cinnamon",
+    "Raisins"
+  ]
+}

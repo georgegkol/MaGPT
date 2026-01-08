@@ -1,0 +1,60 @@
+{
+  "title": "Apfelauflauf",
+  "ingredients": [
+    {
+      "name": "geschälte in Scheiben geschnittene Äpfel",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Rosinen",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Schwarzbrot",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Fett",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Zimt",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "abger. Zitrone",
+      "quantity": 0.5,
+      "unit": null
+    },
+    {
+      "name": "Milch",
+      "quantity": 0.25,
+      "unit": "l"
+    }
+  ],
+  "instructions": [
+    "Rosinen vorkochen. Schwarzbrot in Fett rösten, mit Zucker, Zimt, abger. Zitrone vermischen, schichtweise mit dem Obst in die Auflaufform geben, mit Milch übergießen und 30 Min. backen."
+  ],
+  "total_time": "30 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Fruit"
+  ]
+}

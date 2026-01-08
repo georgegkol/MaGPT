@@ -1,0 +1,60 @@
+{
+  "title": "Double Chocolate Chips Cookies",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 120,
+      "unit": "g"
+    },
+    {
+      "name": "Kakaopulver",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "name": "Natron",
+      "quantity": 1.5,
+      "unit": "Teel."
+    },
+    {
+      "name": "Salz",
+      "quantity": 1,
+      "unit": "Pr."
+    },
+    {
+      "name": "Butter",
+      "quantity": 140,
+      "unit": "g"
+    },
+    {
+      "name": "Schokolade Zartbitter, gehackt",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 340,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 2,
+      "unit": null
+    },
+    {
+      "name": "flüssige Bourbon-Vanille-Aroma",
+      "quantity": 2,
+      "unit": "Teel."
+    }
+  ],
+  "instructions": [
+    "Ofen auf 165°C vorheizen. Mehl, Kakaopulver, Natron u. Salz vermengen. 50 g Schokolade u. Butter im Wasserbad schmelzen. Zucker in eine große Schüssel geben u. mit der flüssigen Schoko-Butter-Masse verrühren. vermischen, danach die Kakao-Mehl-Mischung nach und nach unterrühren, zu einem glatten Teig verrühren, dann die restliche Schokolade untermischen. Den Teig in 18 gleich große Portionen auf ein mit Backpapier ausgelegtes Blech geben. 15 Min. backen."
+  ],
+  "total_time": null,
+  "servings": 18,
+  "tags": [
+    "Cookies",
+    "Chocolate",
+    "Baking"
+  ]
+}

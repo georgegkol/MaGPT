@@ -1,0 +1,41 @@
+{
+  "title": "Dattelkonfekt",
+  "ingredients": [
+    {
+      "name": "Puderzucker",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "abgezogene Mandeln in Stiften",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Datteln in Streifen geschnitten",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Eiweiß",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Oblaten",
+      "quantity": 60,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Eiweiß steif schlagen, löffelweise Puderzucker unterrühren. Mandeln und Datteln daruntermischen, mit einem Teelöffel auf Oblaten setzen. 30–40 Min. bei 125–150 °C backen."
+  ],
+  "total_time": "40 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Baking",
+    "Dates",
+    "Almonds"
+  ]
+}

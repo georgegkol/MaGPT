@@ -1,0 +1,50 @@
+{
+  "title": "Falsche holländische Tunke (zu Blumen)",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Flüssigkeit (½ Milch ½ Flüssigkeit)",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "Blumenkohlwasser",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Muskat",
+      "quantity": null,
+      "unit": "etwas"
+    },
+    {
+      "name": "Zitronensaft",
+      "quantity": null,
+      "unit": "etwas"
+    },
+    {
+      "name": "Eigelb",
+      "quantity": 1,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    null
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Sauce",
+    "Dutch Style",
+    "Cooking"
+  ]
+}

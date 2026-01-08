@@ -1,0 +1,46 @@
+{
+  "title": "Nußkuchen (Eva)",
+  "ingredients": [
+    {
+      "name": "Eier",
+      "quantity": 6,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 90,
+      "unit": "g"
+    },
+    {
+      "name": "Nüsse (halb Haselnüsse, halb Mandeln)",
+      "quantity": 240,
+      "unit": "g"
+    },
+    {
+      "name": "Sojamilch",
+      "quantity": 4,
+      "unit": "Eßl."
+    },
+    {
+      "name": "Kaffeearoma",
+      "quantity": 1,
+      "unit": "Schuß"
+    },
+    {
+      "name": "Vanille",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Eiweiß steif schlagen. 1 Ei mit 5 Eigelb schaumig rühren. Eischnee unter die Masse heben (Boden Papier). 180° 20 Min. und 20 Min. bei 160° backen."
+  ],
+  "total_time": "40 min",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Nuts"
+  ]
+}

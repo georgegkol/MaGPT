@@ -1,0 +1,71 @@
+{
+  "title": "KÄSEKUCHEN (Traudel)",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 75,
+      "unit": "g"
+    },
+    {
+      "name": "Ei",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Butter",
+      "quantity": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 1,
+      "unit": "TL"
+    },
+    {
+      "name": "Quark",
+      "quantity": 2,
+      "unit": "kg"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Eier",
+      "quantity": 4,
+      "unit": null
+    },
+    {
+      "name": "Sahne",
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "Vanillepudding",
+      "quantity": 1,
+      "unit": "Päckchen"
+    },
+    {
+      "name": "Soßenpulver",
+      "quantity": 1,
+      "unit": "Päckchen"
+    }
+  ],
+  "instructions": [
+    "Teig: Mischen Sie 200 g Mehl, 75 g Zucker, 1 Ei, 125 g Butter und 1 TL Backpulver. Belag: Mischen Sie 2 kg Quark, 300 g Zucker, 4 Eier, 1/2 Liter Sahne, 1 Päckchen Vanillepudding und 1 Päckchen Soßenpulver. Backzeit: 1 Stunde bei 170 °C, danach 30 Minuten im Ofen stehen lassen."
+  ],
+  "total_time": "1 Stunde 30 Minuten",
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking",
+    "Cheesecake"
+  ]
+}

@@ -9,7 +9,7 @@ client = OpenAI()
 
 BASE_DIR = Path(__file__).resolve().parent
 TEXT_DIR = BASE_DIR / "text extraction"
-OUTPUT_DIR = BASE_DIR / "segmented recipes"
+OUTPUT_DIR = BASE_DIR / "indiv recipe txt"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 # LLM prompt for page segmentation

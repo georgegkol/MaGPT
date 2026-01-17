@@ -1,0 +1,50 @@
+{
+  "title": "Kohlrabi in Mehlschwitze",
+  "ingredients": [
+    {
+      "name": "Kohlrabi",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Wasser",
+      "quantity": 0.67,
+      "unit": "l"
+    },
+    {
+      "name": "Butter",
+      "quantity": 1,
+      "unit": "großer Löffel"
+    },
+    {
+      "name": "Mehl",
+      "quantity": 2,
+      "unit": "Teelöffel"
+    },
+    {
+      "name": "Muskat",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Salz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [
+    "Schneiden Sie den Kohlrabi in dünne Scheiben und geben Sie diese in einen Topf. Bedecken Sie die Kohlrabi-Scheiben zu zwei Dritteln mit Wasser und lassen Sie sie auf kleiner Flamme etwa 10 Minuten köcheln. In einem zweiten Topf lassen Sie einen großen Löffel Butter schmelzen. Geben Sie 2 Teelöffel Mehl dazu und rühren Sie mit einem Schneebesen die Klümpchen weg. Fügen Sie nach und nach das Kohlrabi-Wasser hinzu. Geben Sie am Ende den gekochten Kohlrabi dazu. Würzen Sie das Gericht mit Muskat, Salz und Pfeffer nach Geschmack. Guten Appetit!"
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Vegetable",
+    "Main Course",
+    "Traditional"
+  ]
+}

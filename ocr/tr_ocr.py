@@ -153,8 +153,8 @@ def process_image(image_path, out_dir):
 # -----------------------------
 # RUN (single image)
 # -----------------------------
-IMAGE_PATH = "./scans/Part7/Part7_page_3.jpg"
-OUT_DIR = Path("./scans/debug_lines")
+IMAGE_PATH = "./data/Part7/Part7_page_3.jpg"
+OUT_DIR = Path("./data/debug_lines")
 
 results = process_image(IMAGE_PATH, OUT_DIR)
 

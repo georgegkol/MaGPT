@@ -14,7 +14,7 @@ from transformers import (
 # -----------------------------
 # CONFIG
 # -----------------------------
-DATA_DIR = Path("./scans/lines_for_transcription")
+DATA_DIR = Path("./data/lines_for_transcription")
 CSV_PATH = DATA_DIR / "transcriptions.csv"
 
 MODEL_NAME = "fhswf/TrOCR_german_handwritten"

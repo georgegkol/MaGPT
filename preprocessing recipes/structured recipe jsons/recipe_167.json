@@ -1,0 +1,85 @@
+{
+  "title": "Feine Quarksahnetorte",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Backpulver",
+      "quantity": 2,
+      "unit": "Messerspitzen"
+    },
+    {
+      "name": "Zucker",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Vanillezucker",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "Margarine",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Puderzucker",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Quark",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "Eidotter",
+      "quantity": 3,
+      "unit": null
+    },
+    {
+      "name": "Zucker",
+      "quantity": 0.33,
+      "unit": "Pf"
+    },
+    {
+      "name": "Zitronensaft",
+      "quantity": 1,
+      "unit": null
+    },
+    {
+      "name": "abgeriebene Zitronenschale",
+      "quantity": 0.5,
+      "unit": null
+    },
+    {
+      "name": "eingeweichte Gelatine",
+      "quantity": 7,
+      "unit": "Blatt"
+    },
+    {
+      "name": "Eischnee",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Schlagsahne",
+      "quantity": 0.25,
+      "unit": "l"
+    }
+  ],
+  "instructions": [
+    "Einen Boden gleich nach dem Backen mit Puderzucker bestreuen u. in Portionsstücke schneiden. Füllung auf den einen gebackenen Boden geben, den man vorher in eine mit Papier ausgelegte Springform legt. Den geschnittenen Boden obenauf legen u. im Kühlschrank erstarren lassen."
+  ],
+  "total_time": null,
+  "servings": null,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Baking"
+  ]
+}

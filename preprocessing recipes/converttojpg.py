@@ -2,8 +2,8 @@ import fitz  # PyMuPDF
 import os
 
 # Folders
-pdf_folder = "scans"
-jpg_folder = "scans/jpgscans"
+pdf_folder = "data"
+jpg_folder = "data/jpgscans"
 
 # Ensure output folder exists
 os.makedirs(jpg_folder, exist_ok=True)

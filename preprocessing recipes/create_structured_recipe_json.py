@@ -5,8 +5,8 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 
-INPUT_DIR = BASE_DIR / "segmented recipes"
-OUTPUT_DIR = BASE_DIR / "structured recipes"
+INPUT_DIR = BASE_DIR / "indiv recipe txt"
+OUTPUT_DIR = BASE_DIR / "structured recipe jsons"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 load_dotenv()

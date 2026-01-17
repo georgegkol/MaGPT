@@ -30,8 +30,8 @@ def detect_text(image_path):
 
 
 if __name__ == "__main__":
-    image_folder = "./scans/Part7"
-    output_folder = "./scans/Part7_txt"
+    image_folder = "./data/Part7"
+    output_folder = "./data/Part7_txt"
 
     os.makedirs(output_folder, exist_ok=True)
 

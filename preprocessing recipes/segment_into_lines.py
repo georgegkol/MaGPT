@@ -8,8 +8,8 @@ from PIL import Image
 # -----------------------------
 MIN_LINE_HEIGHT = 22
 
-PAGE_DIR = Path("scans/clean_handwriting")
-OUT_DIR = Path("scans/lines_for_transcription")
+PAGE_DIR = Path("data/clean_handwriting")
+OUT_DIR = Path("data/lines_for_transcription")
 
 # -----------------------------
 # YOUR ROW DETECTION (UNCHANGED)

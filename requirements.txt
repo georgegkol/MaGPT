@@ -1,0 +1,6 @@
+streamlit
+openai
+supabase
+pinecone-client
+numpy
+python-dotenv

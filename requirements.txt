@@ -1,6 +1,6 @@
 streamlit
 openai
 supabase
-pinecone-client
+pinecone
 numpy
 python-dotenv

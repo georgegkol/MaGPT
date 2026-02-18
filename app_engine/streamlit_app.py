@@ -61,11 +61,10 @@ if query:
                         user_data = parse_user_input(user_input)
                         user_ingredient_names = user_data.get("ingredients", [])
 
-                        # Run agent
                         agent_result = run_recipe_agent(
                             recipe_title=recipe.get("title", ""),
                             recipe_ingredients=recipe_ingredient_names,
-                            user_ingredients=user_ingredient_names,
+                            user_text=user_input_text,  # the raw string the user typed in Streamlit
                             recipe_tags=recipe.get("tags", [])
                         )
 

@@ -1,31 +1,54 @@
-# agent.py
 import json
-from typing import Dict, List, Any
-from tools import parse_user_input, find_missing_ingredients
+from typing import List, Dict, Any
+from tools import find_missing_ingredients
 from openai import OpenAI
 
-# --- LangChain imports ---
+# LangChain imports
 from langchain_community.chat_models import ChatOpenAI
-from langchain.agents import AgentExecutor, Tool, create_openai_functions_agent
+from langchain.agents import Tool, create_openai_functions_agent
 
-# -----------------------------
-# LLM TOOL: SUBSTITUTIONS
-# -----------------------------
 client = OpenAI()
 
-def suggest_substitutions(input_data: Dict[str, Any]) -> Dict[str, List[str]]:
+# -----------------------------
+# LLM TOOL 1: PARSE USER INPUT
+# -----------------------------
+def parse_user_input(user_text: str) -> Dict[str, Any]:
     """
-    LLM-based tool to suggest ingredient substitutions
-    input_data:
-        {
-            "missing_ingredients": [...],
-            "recipe_title": "...",
-            "recipe_tags": [...]
-        }
+    Takes natural language input and returns a structured list of ingredients.
     """
-    missing_ingredients = input_data["missing_ingredients"]
-    recipe_title = input_data["recipe_title"]
-    recipe_tags = input_data.get("recipe_tags", [])
+    prompt = f"""
+Extract structured ingredient info from this text:
+
+"{user_text}"
+
+Return JSON:
+{{
+  "ingredients": ["ingredient1", "ingredient2"],
+  "quantities": {{
+    "ingredient_name": [quantity, "unit"]
+  }}
+}}
+"""
+
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0
+    )
+
+    try:
+        return json.loads(response.choices[0].message.content)
+    except json.JSONDecodeError:
+        return {"ingredients": [], "quantities": {}}
+
+
+# -----------------------------
+# LLM TOOL 2: SUGGEST SUBSTITUTIONS
+# -----------------------------
+def suggest_substitutions(data: Dict[str, Any]) -> Dict[str, List[str]]:
+    missing_ingredients = data["missing_ingredients"]
+    recipe_title = data["recipe_title"]
+    recipe_tags = data.get("recipe_tags", [])
     tags_text = ", ".join(recipe_tags) if recipe_tags else "none"
 
     prompt = f"""
@@ -33,19 +56,17 @@ You are a professional chef.
 
 Recipe: {recipe_title}
 Recipe tags: {tags_text}
-
-Missing ingredients:
-{missing_ingredients}
+Missing ingredients: {missing_ingredients}
 
 Suggest 2–3 substitutions per missing ingredient.
-Return ONLY valid JSON:
+Return only valid JSON:
 {{ "ingredient_name": ["sub1", "sub2"] }}
 """
 
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
-        temperature=0.3,
+        temperature=0.3
     )
 
     try:
@@ -53,31 +74,29 @@ Return ONLY valid JSON:
     except json.JSONDecodeError:
         return {i: [] for i in missing_ingredients}
 
+
 # -----------------------------
-# REGISTER TOOLS
+# REGISTER TOOLS FOR AGENT
 # -----------------------------
 tools = [
     Tool(
         name="Parse User Input",
         func=parse_user_input,
-        description="Parse natural language input from the user to extract ingredients and quantities."
+        description="Parse natural language input into structured ingredients."
     ),
     Tool(
         name="Find Missing Ingredients",
         func=find_missing_ingredients,
-        description="Compare recipe ingredients with user ingredients and return which are missing."
+        description="Compare recipe ingredients with user ingredients."
     ),
     Tool(
         name="Suggest Substitutions",
         func=suggest_substitutions,
-        description="Use LLM to suggest alternative ingredients for missing items."
+        description="Suggest substitutions for missing ingredients."
     ),
 ]
 
-# -----------------------------
-# CREATE AGENT
-# -----------------------------
-llm = ChatOpenAI(model_name="gpt-4o-mini", temperature=0, openai_api_key=None)
+llm = ChatOpenAI(model_name="gpt-4o-mini", temperature=0)
 
 agent_executor = create_openai_functions_agent(
     llm=llm,
@@ -85,23 +104,14 @@ agent_executor = create_openai_functions_agent(
     verbose=True
 )
 
+
 # -----------------------------
 # HELPER FUNCTION TO RUN AGENT
 # -----------------------------
-def run_recipe_agent(recipe_title: str, recipe_ingredients: List[str], user_input: str, recipe_tags: List[str] | None = None) -> Dict[str, Any]:
-    """
-    Run the agent on a recipe + user-provided ingredient list.
-    
-    Steps:
-    1. Parse user input
-    2. Find missing ingredients
-    3. Suggest substitutions via LLM
-    """
-    # Step 1: Parse user's ingredients
-    user_data = parse_user_input(user_input)
+def run_recipe_agent(recipe_title: str, recipe_ingredients: List[str], user_text: str, recipe_tags: List[str] | None = None):
+    user_data = parse_user_input(user_text)
     user_ingredients = user_data.get("ingredients", [])
 
-    # Step 2: Find missing ingredients
     missing_data = find_missing_ingredients({
         "recipe_ingredients": recipe_ingredients,
         "user_ingredients": user_ingredients
@@ -110,7 +120,6 @@ def run_recipe_agent(recipe_title: str, recipe_ingredients: List[str], user_inpu
     missing = missing_data["missing"]
     available = missing_data["available"]
 
-    # Step 3: Suggest substitutions
     substitutions = {}
     if missing:
         substitutions = suggest_substitutions({

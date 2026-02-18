@@ -23,6 +23,9 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 def parse_user_input(user_text: str) -> Dict[str, Any]:
     """
     Extracts ingredients and quantities from natural language input.
+    Returns a dict with:
+      - "ingredients": list of ingredients
+      - "quantities": dict mapping ingredient_name -> [quantity, unit]
     """
     prompt = f"""
 Extract the ingredients from the following text.
@@ -38,6 +41,7 @@ Return only JSON in this exact format:
 }}
 Do NOT add any explanation or text outside the JSON.
 """
+    # Call OpenAI directly via your client
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
@@ -96,23 +100,7 @@ llm = ChatOpenAI(
 # -----------------------------
 # Define Tools for Agent
 # -----------------------------
-tools = [
-    {
-        "name": "Parse User Input",
-        "func": parse_user_input,
-        "description": "Parse natural language text into structured ingredient list."
-    },
-    {
-        "name": "Find Missing Ingredients",
-        "func": find_missing_ingredients,
-        "description": "Compare recipe ingredients with user ingredients."
-    },
-    {
-        "name": "Suggest Substitutions",
-        "func": suggest_substitutions,
-        "description": "Suggest ingredient substitutions for missing items."
-    }
-]
+tools = [ parse_user_input, find_missing_ingredients, suggest_substitutions]
 
 # -----------------------------
 # Prompt Template for Agent

@@ -5,4 +5,3 @@ pinecone
 numpy
 python-dotenv
 langchain
-langchain-community

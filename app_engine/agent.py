@@ -6,10 +6,9 @@ from dotenv import load_dotenv
 import os
 
 # LangChain imports
-from langchain.prompts import ChatPromptTemplate, HumanMessagePromptTemplate
 from langchain.chat_models import ChatOpenAI
-from langchain.agents import Tool, create_openai_functions_agent
-
+from langchain.prompts.chat import ChatPromptTemplate, HumanMessagePromptTemplate
+from langchain.agents import create_openai_functions_agent
 
 load_dotenv()
 client = OpenAI()

@@ -4,5 +4,5 @@ supabase
 pinecone
 numpy
 python-dotenv
-langchain
+langchain==0.1.25
 langchain-openai

@@ -7,7 +7,7 @@ from openai import OpenAI
 from tools import find_missing_ingredients
 
 # LangChain imports
-from langchain.chat_models import ChatOpenAI
+from langchain.chat_models.openai import ChatOpenAI
 from langchain.prompts.chat import ChatPromptTemplate, HumanMessagePromptTemplate
 from langchain.agents import create_openai_functions_agent
 

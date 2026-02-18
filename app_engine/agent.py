@@ -1,9 +1,11 @@
 from langchain.agents import initialize_agent, Tool
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from langchain.chains import LLMChain
 from langchain.prompts import ChatPromptTemplate
 from tools import find_missing_ingredients
 import json
+import os
+from dotenv import load_dotenv
 
 # -----------------------------
 # LLM TOOL: SUGGEST SUBSTITUTIONS

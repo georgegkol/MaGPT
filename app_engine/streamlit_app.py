@@ -1,6 +1,7 @@
 import streamlit as st
 from semantic_search import search_recipes
 from agent import run_recipe_agent, parse_user_input
+from tools import normalize_ingredient
 
 st.set_page_config(page_title="Grandma's Recipes", layout="wide")
 st.title("Grandma's Recipes Finder 🍲")
@@ -57,14 +58,18 @@ if query:
 
                 if st.button("Check Ingredients & Get Suggestions", key=f"check_{idx}") and user_input.strip():
                     with st.spinner("Analyzing your ingredients..."):
-                        # Parse user input via LLM
+                        # Parse user input
                         user_data = parse_user_input(user_input)
-                        user_ingredient_names = user_data.get("ingredients", [])
+                        user_ingredient_names = [normalize_ingredient(i) for i in user_data.get("ingredients", [])]
 
+                        # Normalize recipe ingredients
+                        recipe_ingredient_names = [normalize_ingredient(i) for i in recipe_ingredient_names]
+
+                        # Run agent
                         agent_result = run_recipe_agent(
                             recipe_title=recipe.get("title", ""),
                             recipe_ingredients=recipe_ingredient_names,
-                            user_text=user_input,  # the raw string the user typed in Streamlit
+                            user_text=user_input,
                             recipe_tags=recipe.get("tags", [])
                         )
 

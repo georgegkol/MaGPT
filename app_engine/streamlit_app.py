@@ -64,7 +64,7 @@ if query:
                         agent_result = run_recipe_agent(
                             recipe_title=recipe.get("title", ""),
                             recipe_ingredients=recipe_ingredient_names,
-                            user_text=user_input_text,  # the raw string the user typed in Streamlit
+                            user_text=user_input,  # the raw string the user typed in Streamlit
                             recipe_tags=recipe.get("tags", [])
                         )
 

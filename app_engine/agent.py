@@ -1,25 +1,28 @@
 import json
-from typing import List, Dict, Any, Optional
-from tools import find_missing_ingredients
-from openai import OpenAI
-from dotenv import load_dotenv
 import os
+from typing import List, Dict, Any, Optional
+
+from dotenv import load_dotenv
+from openai import OpenAI
+from tools import find_missing_ingredients
 
 # LangChain imports
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts.chat import ChatPromptTemplate, HumanMessagePromptTemplate
 from langchain.agents import create_openai_functions_agent
 
+# -----------------------------
+# Load environment variables
+# -----------------------------
 load_dotenv()
-client = OpenAI()
-
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # -----------------------------
-# LLM TOOL 1: PARSE USER INPUT
+# TOOL 1: Parse User Input
 # -----------------------------
 def parse_user_input(user_text: str) -> Dict[str, Any]:
     """
-    Takes natural language input and returns a structured list of ingredients.
+    Extracts ingredients and quantities from natural language input.
     """
     prompt = f"""
 Extract the ingredients from the following text.
@@ -35,25 +38,22 @@ Return only JSON in this exact format:
 }}
 Do NOT add any explanation or text outside the JSON.
 """
-
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
         temperature=0
     )
 
-    # Strip any extra whitespace or text outside JSON
     content = response.choices[0].message.content.strip()
     try:
         return json.loads(content)
-    except json.JSONDecodeError as e:
-        print("JSON parse error:", e)
-        print("Model output was:", content)
+    except json.JSONDecodeError:
+        print("JSON parse error. Output was:", content)
         return {"ingredients": [], "quantities": {}}
 
 
 # -----------------------------
-# LLM TOOL 2: SUGGEST SUBSTITUTIONS
+# TOOL 2: Suggest Substitutions
 # -----------------------------
 def suggest_substitutions(data: Dict[str, Any]) -> Dict[str, List[str]]:
     missing_ingredients = data["missing_ingredients"]
@@ -68,11 +68,10 @@ Recipe: {recipe_title}
 Recipe tags: {tags_text}
 Missing ingredients: {missing_ingredients}
 
-Suggest 2–3 substitutions per missing ingredient only, not for all ingredients.
+Suggest 2–3 substitutions per missing ingredient only.
 Return only valid JSON:
 {{ "ingredient_name": ["sub1", "sub2"] }}
 """
-
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
@@ -82,26 +81,44 @@ Return only valid JSON:
     try:
         return json.loads(response.choices[0].message.content)
     except json.JSONDecodeError:
-        return {i: [] for i in missing_ingredients}
+        return {ingredient: [] for ingredient in missing_ingredients}
 
 
-# LLM
+# -----------------------------
+# Initialize LLM
+# -----------------------------
 llm = ChatOpenAI(
     model_name="gpt-4o-mini",
     temperature=0,
     openai_api_key=os.getenv("OPENAI_API_KEY")
 )
 
-# Tools
+# -----------------------------
+# Define Tools for Agent
+# -----------------------------
 tools = [
-    {"name": "Parse User Input", "func": parse_user_input, "description": "Parse natural language text into structured ingredient list."},
-    {"name": "Find Missing Ingredients", "func": find_missing_ingredients, "description": "Compare recipe ingredients with user ingredients."},
-    {"name": "Suggest Substitutions", "func": suggest_substitutions, "description": "Suggest ingredient substitutions for missing items."},
+    {
+        "name": "Parse User Input",
+        "func": parse_user_input,
+        "description": "Parse natural language text into structured ingredient list."
+    },
+    {
+        "name": "Find Missing Ingredients",
+        "func": find_missing_ingredients,
+        "description": "Compare recipe ingredients with user ingredients."
+    },
+    {
+        "name": "Suggest Substitutions",
+        "func": suggest_substitutions,
+        "description": "Suggest ingredient substitutions for missing items."
+    }
 ]
 
-# Prompt template with agent_scratchpad
+# -----------------------------
+# Prompt Template for Agent
+# -----------------------------
 template_str = """
-You are a helpful assistant chef. 
+You are a helpful assistant chef.
 Use the available tools to parse user ingredients and suggest substitutions.
 
 Tools:
@@ -112,13 +129,12 @@ Tools:
 {agent_scratchpad}
 """
 
-# Wrap your existing template
 human_msg = HumanMessagePromptTemplate.from_template(template_str)
-
-# Create a ChatPromptTemplate
 prompt = ChatPromptTemplate.from_messages([human_msg])
 
-# Create agent executor
+# -----------------------------
+# Create Agent Executor
+# -----------------------------
 agent_executor = create_openai_functions_agent(
     llm=llm,
     tools=tools,
@@ -126,15 +142,21 @@ agent_executor = create_openai_functions_agent(
 )
 
 # -----------------------------
-# HELPER FUNCTION TO RUN AGENT
+# Helper to Run Agent
 # -----------------------------
 def run_recipe_agent(
     recipe_title: str,
     recipe_ingredients: List[str],
     user_text: str,
     recipe_tags: Optional[List[str]] = None
-):
-    user_data = parse_user_input(user_text)  # extracts {"ingredients": ["onion", "tomato"]}
+) -> Dict[str, Any]:
+    """
+    Runs the full agent workflow:
+    1. Parse user input
+    2. Identify missing ingredients
+    3. Suggest substitutions
+    """
+    user_data = parse_user_input(user_text)
     user_ingredients = user_data.get("ingredients", [])
 
     missing_data = find_missing_ingredients(recipe_ingredients, user_ingredients)

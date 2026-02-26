@@ -10,7 +10,7 @@ query = st.text_input("Search for a recipe (any language):")
 
 if query:
     with st.spinner("Finding recipes..."):
-        results = search_recipes(query, top_n=8)
+        results = search_recipes(query, top_n=20)
 
     if not results:
         st.warning("No recipes found for your query.")
@@ -22,7 +22,7 @@ if query:
             score = recipe.get("final_score") or recipe.get("score") or recipe.get("pinecone_score")
             title = recipe.get("title", f"Untitled recipe {idx}")
             if score is not None:
-                title = f"{title}"
+                title = f"{title} (Score: {score:.2f})"
 
             with st.expander(title):
                 # --- Recipe Details ---
@@ -51,24 +51,19 @@ if query:
                 # --- User Ingredients Input ---
                 st.markdown("### 🥄 Enter Ingredients You Have")
                 user_input = st.text_area(
-                    f"Enter your ingredients for '{recipe.get('title', 'this recipe')}' (one per line or free text):",
+                    f"Enter your ingredients for '{recipe.get('title', 'this recipe')}' (any language):",
                     key=f"user_input_{idx}"
                 )
 
                 if st.button("Check Ingredients & Get Suggestions", key=f"check_{idx}") and user_input.strip():
                     with st.spinner("Analyzing your ingredients..."):
-                        # Parse user input
-                        user_data = parse_user_input(user_input)
-
-                        # Run agent
-                        # DON'T normalize for LLM-based comparison
+                        # Run agent directly with raw recipe ingredients & user text
                         agent_result = run_recipe_agent(
                             recipe_title=recipe.get("title", ""),
-                            recipe_ingredients=[ing.get("name") for ing in ingredients if ing.get("name")],  # raw names in German
-                            user_text=user_input,  # raw user text
+                            recipe_ingredients=recipe_ingredient_names,  # raw names in German
+                            user_text=user_input,                        # raw user input
                             recipe_tags=recipe.get("tags", [])
                         )
-
 
                     # --- Display Results ---
                     st.markdown("### ✅ Ingredients You Have")
@@ -79,8 +74,11 @@ if query:
 
                     st.markdown("### 🔄 Suggested Substitutions")
                     substitutions = agent_result.get("substitutions", {})
+
+                    # Ensure keys match missing ingredient names
                     if substitutions:
-                        for miss, subs in substitutions.items():
+                        for miss in agent_result["missing"]:
+                            subs = substitutions.get(miss, [])
                             st.text(f"{miss} → {', '.join(subs) if subs else 'No good substitutes'}")
                     else:
                         st.text("No substitutions suggested.")

@@ -76,12 +76,15 @@ if query:
                     substitutions = agent_result.get("substitutions", {})
 
                     # Ensure keys match missing ingredient names
-                    if substitutions:
+                    substitutions = agent_result.get("substitutions", {})
+
+                    if agent_result["missing"]:
                         for miss in agent_result["missing"]:
                             subs = substitutions.get(miss, [])
                             st.text(f"{miss} → {', '.join(subs) if subs else 'No good substitutes'}")
                     else:
-                        st.text("No substitutions suggested.")
+                        st.text("No missing ingredients, no substitutions needed.")
+
 
                 # Optional meta
                 st.markdown("### ℹ️ Details")

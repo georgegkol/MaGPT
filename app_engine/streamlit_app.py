@@ -1,7 +1,6 @@
 import streamlit as st
 from semantic_search import search_recipes
 from agent import run_recipe_agent, parse_user_input
-from tools import normalize_ingredient
 
 st.set_page_config(page_title="Grandma's Recipes", layout="wide")
 st.title("Grandma's Recipes Finder 🍲")

@@ -10,7 +10,7 @@ query = st.text_input("Search for a recipe (any language):")
 
 if query:
     with st.spinner("Finding recipes..."):
-        results = search_recipes(query, top_n=20)
+        results = search_recipes(query, top_n=8)
 
     if not results:
         st.warning("No recipes found for your query.")
@@ -22,7 +22,7 @@ if query:
             score = recipe.get("final_score") or recipe.get("score") or recipe.get("pinecone_score")
             title = recipe.get("title", f"Untitled recipe {idx}")
             if score is not None:
-                title = f"{title} (Score: {score:.2f})"
+                title = f"{title}"
 
             with st.expander(title):
                 # --- Recipe Details ---

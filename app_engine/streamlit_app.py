@@ -13,7 +13,7 @@ if query:
         results = search_recipes(query, top_n=8)
 
     if not results:
-        st.warning("No recipes found for your query.")
+        st.warning("No recipes found for your query")
     else:
         st.subheader("Top recipes")
         

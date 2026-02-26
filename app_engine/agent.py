@@ -65,6 +65,7 @@ def suggest_substitutions(data: Dict[str, Any]) -> Dict[str, List[str]]:
     recipe_tags = data.get("recipe_tags", [])
     tags_text = ", ".join(recipe_tags) if recipe_tags else "none"
 
+    # Prompt LLM to return substitutions mapped to the exact missing ingredients
     prompt = f"""
 You are a professional chef.
 
@@ -72,9 +73,13 @@ Recipe: {recipe_title}
 Recipe tags: {tags_text}
 Missing ingredients: {missing_ingredients}
 
-Suggest 2–3 substitutions per missing ingredient only.
-Return only valid JSON:
-{{ "ingredient_name": ["sub1", "sub2"] }}
+For each missing ingredient, suggest 2–3 substitutions.
+Return JSON in this exact format:
+{{
+  "{missing_ingredients[0]}": ["sub1", "sub2"],
+  "{missing_ingredients[1]}": ["sub1", "sub2"]
+}}
+Do NOT change the keys — they must exactly match the missing ingredients list.
 """
     response = client.chat.completions.create(
         model="gpt-4o-mini",
@@ -85,7 +90,9 @@ Return only valid JSON:
     try:
         return json.loads(response.choices[0].message.content)
     except json.JSONDecodeError:
+        # fallback: empty substitutions
         return {ingredient: [] for ingredient in missing_ingredients}
+
 
 
 # -----------------------------

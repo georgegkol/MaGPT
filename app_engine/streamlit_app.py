@@ -2,8 +2,8 @@ import streamlit as st
 from semantic_search import search_recipes
 from agent import run_recipe_agent, parse_user_input
 
-st.set_page_config(page_title="Grandma's Recipes", layout="wide")
-st.title("Grandma's Recipes Finder 🍲")
+st.set_page_config(page_title="Oma's Recipes", layout="wide")
+st.title("Omas Rezepte 🍲")
 
 # --- Step 1: Recipe Search ---
 query = st.text_input("Search for a recipe (any language):")
